@@ -109,7 +109,7 @@
                 </form>
             </div>
             <div class="logo-container">
-                <img src="resources/download.jpg" alt="ESPE Logo">
+                <img src="resources/sully.jpeg" alt="ESPE Logo">
             </div>
         </div>
     </body>

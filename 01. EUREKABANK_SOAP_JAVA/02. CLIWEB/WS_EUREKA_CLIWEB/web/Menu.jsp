@@ -34,7 +34,7 @@
                 margin-bottom: 20px;
             }
             .menu-buttons {
-                background-image: url('resources/download.jpg');
+                background-image: url('resources/banco.jpg');
                 background-repeat: no-repeat;
                 background-size: cover;
                 background-position: center;

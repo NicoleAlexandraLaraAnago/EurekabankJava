@@ -34,7 +34,7 @@
         <link rel="stylesheet" href="styles.css">
         <style>
             body {
-                background-image: url('resources/fondo.jpg');
+                background-image: url('resources/dolar.jpg');
                 background-size: cover;
                 background-position: center;
                 font-family: Arial, sans-serif;

@@ -41,7 +41,7 @@
         <link rel="stylesheet" href="styles.css">
         <style>
             body {
-                background-image: url('resources/fondo.jpg');
+                background-image: url('resources/dolar.jpg');
                 background-size: cover;
                 background-position: center;
                 font-family: Arial, sans-serif;
@@ -136,7 +136,7 @@
                 </form>
             </div>
             <div class="logo-container">
-                <img src="resources/download.jpg" alt="ESPE Logo">
+                <img src="resources/banco.jpg" alt="ESPE Logo">
             </div>
         </div>
     </body>
