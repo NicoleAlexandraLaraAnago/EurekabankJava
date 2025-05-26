@@ -2,14 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/00.SOA_SIN_BDD_GR06/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3-20250525T174353Z-1-001/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3/01.%20SERVICIO/WS_EUREKA/src/java/ec/edu/monster/modelo/Movimiento.java</file>
-            <file>file:/C:/00.SOA_SIN_BDD_GR06/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3-20250525T174353Z-1-001/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3/01.%20SERVICIO/WS_EUREKA/src/java/ec/edu/monster/prueba/PruebConexionDB.java</file>
-            <file>file:/C:/00.SOA_SIN_BDD_GR06/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3-20250525T174353Z-1-001/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3/01.%20SERVICIO/WS_EUREKA/src/java/ec/edu/monster/ws/WSEureka.java</file>
-            <file>file:/C:/00.SOA_SIN_BDD_GR06/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3-20250525T174353Z-1-001/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3/01.%20SERVICIO/WS_EUREKA/src/java/ec/edu/monster/prueba/PruebaDeposito.java</file>
-            <file>file:/C:/00.SOA_SIN_BDD_GR06/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3-20250525T174353Z-1-001/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3/01.%20SERVICIO/WS_EUREKA/src/java/ec/edu/monster/db/AccesoDB.java</file>
-            <file>file:/C:/00.SOA_SIN_BDD_GR06/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3-20250525T174353Z-1-001/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3/01.%20SERVICIO/WS_EUREKA/src/java/ec/edu/monster/prueba/PruebaMovimiento.java</file>
-            <file>file:/C:/00.SOA_SIN_BDD_GR06/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3-20250525T174353Z-1-001/01.%20EUREKABANK_SOAP_JAVA_GRUPO_3/01.%20SERVICIO/WS_EUREKA/src/java/ec/edu/monster/servicio/EurekaService.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

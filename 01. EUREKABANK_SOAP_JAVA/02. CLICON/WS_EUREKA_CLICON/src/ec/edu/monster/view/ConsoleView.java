@@ -15,9 +15,26 @@ public class ConsoleView {
     private final Scanner scanner = new Scanner(System.in);
 
     public void showLoginPrompt() {
-        System.out.println("==== Login ====");
+    System.out.println("░░░░░░░░░░░░░░░░░░░░░░░░░░");
+    System.out.println("░░░░░░░░░░░░░░░░░░░░░░░░░░");
+    System.out.println("░░░░░░░░██░░░░░░░██░░░░░░░");
+    System.out.println("░░░░░░░░█░████████░█░░░░░░");
+    System.out.println("░░░░░░░░██░░░░░░░██░░░░░░░");
+    System.out.println("░░░░░░░░░█░░█░█░░░█░░░░░░░");
+    System.out.println("░░░░░░░░░░█░░░░░░█░░░░░░░░");
+    System.out.println("░░░░░░░░░░████████░░░░░░░░");
+    System.out.println("░░░░░░░░░███░░░░░████░░░░░");
+    System.out.println("░░░░░░░░█░░█░░░░░█░░█░░░░░");
+    System.out.println("░░░░░░░░████░░░░████░░░░░░");
+    System.out.println("░░░░░░░░░░████████░░░░░░░░");
+    System.out.println("░░░░░░░░░░░█░█░██░░░░░░░░░");
+    System.out.println("░░░░░░░░░░░█░█░░█░░░░░░░░░");
+    System.out.println("░░░░░░░░░░░██████░░░░░░░░░");
+        System.out.println("====** Login **====");
         System.out.print("Usuario: ");
     }
+
+
 
     public void showPasswordPrompt() {
         System.out.print("Contraseña: ");
