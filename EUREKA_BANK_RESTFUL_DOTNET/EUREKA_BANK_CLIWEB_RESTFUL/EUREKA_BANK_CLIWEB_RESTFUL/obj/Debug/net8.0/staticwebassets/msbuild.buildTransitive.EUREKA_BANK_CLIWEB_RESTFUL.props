@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EUREKA_BANK_CLIWEB_RESTFUL.props" />
+</Project>

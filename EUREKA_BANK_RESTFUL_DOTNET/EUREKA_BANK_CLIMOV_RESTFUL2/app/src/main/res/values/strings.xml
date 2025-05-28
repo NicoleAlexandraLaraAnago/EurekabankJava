@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EUREKA_BANK_CLIMOV_RESTFUL</string>
+    <string-array name="tipos_movimiento">
+        <item>DEPOSITO</item>
+        <item>RETIRO</item>
+        <item>TRANSFERENCIA</item>
+    </string-array>
+</resources>

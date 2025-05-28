@@ -1,0 +1,152 @@
+﻿@model List<Movimiento>
+@{
+    ViewData["Title"] = "Ver Movimientos";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Ver Movimientos</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background: #e0f7fa;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            background: #ffffff;
+            padding: 30px 40px;
+            border-radius: 20px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+            width: 700px;
+            text-align: center;
+        }
+
+        h2 {
+            margin-bottom: 25px;
+            color: #004d40;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+
+        button, .menu-btn {
+            width: 100%;
+            padding: 12px;
+            background-color: #00796b;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+
+            button:hover, .menu-btn:hover {
+                background-color: dimgray;
+            }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 30px;
+        }
+
+        th, td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            font-size: 14px;
+        }
+
+        th {
+            background-color: #00796b;
+            color: white;
+        }
+
+        td {
+            text-align: center;
+        }
+
+        .no-data {
+            margin-top: 20px;
+            color: #e53935;
+            font-weight: bold;
+        }
+
+        .saldo-box {
+            font-size: 18px;
+            color: #00796b;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Ver Movimientos</h2>
+
+        <form method="post">
+            <label>Cuenta a consultar:</label>
+            <input type="text" name="cuenta" required placeholder="Ej. 00100001" />
+            <button type="submit">Buscar</button>
+        </form>
+
+        @if (Model != null && Model.Any())
+        {
+            <h3 style="margin-top: 30px;">
+                Movimientos de la cuenta <strong>@ViewBag.Cuenta</strong>
+            </h3>
+            <div class="saldo-box">
+                <strong>Saldo actual:</strong> $@ViewBag.Saldo
+            </div>
+            <table>
+                <tr>
+                    <th>#</th>
+                    <th>Fecha</th>
+                    <th>Tipo</th>
+                    <th>Acción</th>
+                    <th>Importe</th>
+                </tr>
+                @for (int i = 0; i < Model.Count; i++)
+                {
+                    <tr>
+                        <td>@(i + 1)</td>
+                        <td>@Model[i].Fecha.ToShortDateString()</td>
+                        <td>@Model[i].Tipo</td>
+                        <td>@Model[i].Accion</td>
+                        <td>@Model[i].Importe.ToString("N2")</td>
+                    </tr>
+                }
+            </table>
+        }
+        else if (Model != null)
+        {
+            <div class="no-data">No se encontraron movimientos para esta cuenta.</div>
+        }
+
+        <a href="/Home/Menu">
+            <button type="button" class="menu-btn">Regresar al Menú</button>
+        </a>
+    </div>
+</body>
+</html>
