@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|c:\\users\\ordenador\\source\\repos\\eurekabank_servidor_soap\\eurekabank_servidor_soap\\services\\movimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|solutionrelative:eurekabank_servidor_soap\\services\\movimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|c:\\users\\ordenador\\source\\repos\\eurekabank_servidor_soap\\eurekabank_servidor_soap\\services\\imovimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|solutionrelative:eurekabank_servidor_soap\\services\\imovimientoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|c:\\users\\ordenador\\source\\repos\\eurekabank_servidor_soap\\eurekabank_servidor_soap\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|solutionrelative:eurekabank_servidor_soap\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|c:\\users\\ordenador\\source\\repos\\eurekabank_servidor_soap\\eurekabank_servidor_soap\\models\\tipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|solutionrelative:eurekabank_servidor_soap\\models\\tipomovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|c:\\users\\ordenador\\source\\repos\\eurekabank_servidor_soap\\eurekabank_servidor_soap\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|solutionrelative:eurekabank_servidor_soap\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|c:\\users\\ordenador\\source\\repos\\eurekabank_servidor_soap\\eurekabank_servidor_soap\\models\\movimientorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|solutionrelative:eurekabank_servidor_soap\\models\\movimientorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|c:\\users\\ordenador\\source\\repos\\eurekabank_servidor_soap\\eurekabank_servidor_soap\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|solutionrelative:eurekabank_servidor_soap\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|c:\\users\\ordenador\\source\\repos\\eurekabank_servidor_soap\\eurekabank_servidor_soap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|solutionrelative:eurekabank_servidor_soap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|c:\\users\\ordenador\\source\\repos\\eurekabank_servidor_soap\\eurekabank_servidor_soap\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|solutionrelative:eurekabank_servidor_soap\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|c:\\users\\ordenador\\source\\repos\\eurekabank_servidor_soap\\eurekabank_servidor_soap\\eurekabank_servidor_soap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{146751E6-93CC-4EAD-A176-BF82D0F7B587}|Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj|solutionrelative:eurekabank_servidor_soap\\eurekabank_servidor_soap.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovimientoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Models\\MovimientoRequest.cs",
+              "RelativeDocumentMoniker": "Eurekabank_Servidor_SOAP\\Models\\MovimientoRequest.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Models\\MovimientoRequest.cs",
+              "RelativeToolTip": "Eurekabank_Servidor_SOAP\\Models\\MovimientoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:09:37.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Eurekabank_Servidor_SOAP\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Services\\AuthService.cs",
+              "RelativeToolTip": "Eurekabank_Servidor_SOAP\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:09:56.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Models\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Eurekabank_Servidor_SOAP\\Models\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Models\\Cuenta.cs",
+              "RelativeToolTip": "Eurekabank_Servidor_SOAP\\Models\\Cuenta.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:09:49.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipoMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Models\\TipoMovimiento.cs",
+              "RelativeDocumentMoniker": "Eurekabank_Servidor_SOAP\\Models\\TipoMovimiento.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Models\\TipoMovimiento.cs",
+              "RelativeToolTip": "Eurekabank_Servidor_SOAP\\Models\\TipoMovimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:09:43.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMovimientoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Services\\IMovimientoService.cs",
+              "RelativeDocumentMoniker": "Eurekabank_Servidor_SOAP\\Services\\IMovimientoService.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Services\\IMovimientoService.cs",
+              "RelativeToolTip": "Eurekabank_Servidor_SOAP\\Services\\IMovimientoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:10:13.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimientoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Services\\MovimientoService.cs",
+              "RelativeDocumentMoniker": "Eurekabank_Servidor_SOAP\\Services\\MovimientoService.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Services\\MovimientoService.cs",
+              "RelativeToolTip": "Eurekabank_Servidor_SOAP\\Services\\MovimientoService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:10:18.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Models\\Movimiento.cs",
+              "RelativeDocumentMoniker": "Eurekabank_Servidor_SOAP\\Models\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Models\\Movimiento.cs",
+              "RelativeToolTip": "Eurekabank_Servidor_SOAP\\Models\\Movimiento.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:09:29.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Program.cs",
+              "RelativeDocumentMoniker": "Eurekabank_Servidor_SOAP\\Program.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Program.cs",
+              "RelativeToolTip": "Eurekabank_Servidor_SOAP\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:39:36.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Eurekabank_Servidor_SOAP\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Eurekabank_Servidor_SOAP\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:10:04.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Eurekabank_Servidor_SOAP",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj",
+              "RelativeDocumentMoniker": "Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj",
+              "ToolTip": "C:\\Users\\Ordenador\\source\\repos\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj",
+              "RelativeToolTip": "Eurekabank_Servidor_SOAP\\Eurekabank_Servidor_SOAP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T02:36:37.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
