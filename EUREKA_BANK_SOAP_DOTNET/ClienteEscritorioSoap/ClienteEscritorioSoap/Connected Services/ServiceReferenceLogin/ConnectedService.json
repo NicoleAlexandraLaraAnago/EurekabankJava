@@ -10,7 +10,7 @@
     "namespaceMappings": [
       "*, ServiceReferenceLogin"
     ],
-    "targetFramework": "net8.0-windows",
+    "targetFramework": "net8.0",
     "typeReuseMode": "All"
   }
 }

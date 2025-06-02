@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\Viajecitos-SOAP\\CLICON\\VIAJECITOS_CLICON_SOAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2C03D9-0C6D-44A8-9AEB-1358EDA7BE77}|VIAJECITOS_CLICON_SOAP\\VIAJECITOS_CLICON_SOAP.csproj|d:\\escritorio\\viajecitos-soap\\clicon\\viajecitos_clicon_soap\\viajecitos_clicon_soap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B2C03D9-0C6D-44A8-9AEB-1358EDA7BE77}|VIAJECITOS_CLICON_SOAP\\VIAJECITOS_CLICON_SOAP.csproj|solutionrelative:viajecitos_clicon_soap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLICON\\VIAJECITOS_CLICON_SOAP\\VIAJECITOS_CLICON_SOAP\\Program.cs",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLICON_SOAP\\Program.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLICON\\VIAJECITOS_CLICON_SOAP\\VIAJECITOS_CLICON_SOAP\\Program.cs",
+              "RelativeToolTip": "VIAJECITOS_CLICON_SOAP\\Program.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAUwOUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:49:49.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Eurekabank_Servidor_SOAP.props" />
+</Project>

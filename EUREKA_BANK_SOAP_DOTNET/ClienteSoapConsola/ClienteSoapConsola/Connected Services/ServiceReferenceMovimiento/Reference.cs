@@ -13,7 +13,7 @@ namespace ServiceReferenceMovimiento
     
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "8.0.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
     [System.Runtime.Serialization.DataContractAttribute(Name="Movimiento", Namespace="http://schemas.datacontract.org/2004/07/Eurekabank_Servidor_SOAP.Models")]
     public partial class Movimiento : object
     {
@@ -125,7 +125,7 @@ namespace ServiceReferenceMovimiento
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "8.0.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
     [System.Runtime.Serialization.DataContractAttribute(Name="MovimientoRequest", Namespace="http://schemas.datacontract.org/2004/07/Eurekabank_Servidor_SOAP.Models")]
     public partial class MovimientoRequest : object
     {
@@ -191,7 +191,7 @@ namespace ServiceReferenceMovimiento
         }
     }
     
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "8.0.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
     [System.ServiceModel.ServiceContractAttribute(ConfigurationName="ServiceReferenceMovimiento.IMovimientoService")]
     public interface IMovimientoService
     {
@@ -203,13 +203,13 @@ namespace ServiceReferenceMovimiento
         System.Threading.Tasks.Task<bool> RegistrarMovimientoAsync(ServiceReferenceMovimiento.MovimientoRequest req);
     }
     
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "8.0.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
     public interface IMovimientoServiceChannel : ServiceReferenceMovimiento.IMovimientoService, System.ServiceModel.IClientChannel
     {
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "8.0.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Tools.ServiceModel.Svcutil", "2.2.0-preview1.23462.5")]
     public partial class MovimientoServiceClient : System.ServiceModel.ClientBase<ServiceReferenceMovimiento.IMovimientoService>, ServiceReferenceMovimiento.IMovimientoService
     {
         
@@ -267,13 +267,6 @@ namespace ServiceReferenceMovimiento
         {
             return System.Threading.Tasks.Task.Factory.FromAsync(((System.ServiceModel.ICommunicationObject)(this)).BeginOpen(null, null), new System.Action<System.IAsyncResult>(((System.ServiceModel.ICommunicationObject)(this)).EndOpen));
         }
-        
-        #if !NET6_0_OR_GREATER
-        public virtual System.Threading.Tasks.Task CloseAsync()
-        {
-            return System.Threading.Tasks.Task.Factory.FromAsync(((System.ServiceModel.ICommunicationObject)(this)).BeginClose(null, null), new System.Action<System.IAsyncResult>(((System.ServiceModel.ICommunicationObject)(this)).EndClose));
-        }
-        #endif
         
         private static System.ServiceModel.Channels.Binding GetBindingForEndpoint(EndpointConfiguration endpointConfiguration)
         {
