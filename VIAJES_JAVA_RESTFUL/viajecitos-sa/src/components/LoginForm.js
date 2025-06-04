@@ -9,7 +9,7 @@ const LoginForm = ({ onLoginSuccess }) => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const res = await axios.post('http://192.168.100.36:8080/auth/login', {
+      const res = await axios.post('http://10.40.15.238:8080/auth/login', {
         correo,
         password,
       });

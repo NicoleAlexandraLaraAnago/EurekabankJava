@@ -9,7 +9,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class AuthService {
-    private static final String BASE_URL = "http://192.168.100.36:8080/auth";
+    private static final String BASE_URL = "http://10.40.15.238:8080/auth";
     private final Gson gson = new Gson();
 
     public Usuario login(String correo, String password) {

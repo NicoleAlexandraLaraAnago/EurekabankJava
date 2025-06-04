@@ -9,7 +9,7 @@ import java.net.URL;
 import java.nio.charset.StandardCharsets;
 
 public class CompraServicio {
-    private static final String URL_BACKEND = "http://192.168.100.36:8080/compras";
+    private static final String URL_BACKEND = "http://10.40.15.238:8080/compras";
     private final Gson gson = new Gson();
 
     public boolean realizarCompra(Compra compra) {

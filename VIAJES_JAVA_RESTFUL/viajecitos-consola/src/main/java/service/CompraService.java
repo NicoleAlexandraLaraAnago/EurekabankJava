@@ -11,7 +11,7 @@ import java.net.http.HttpResponse;
 import java.time.LocalDateTime;
 
 public class CompraService {
-    private static final String BASE_URL = "http://192.168.100.36:8080/compras";
+    private static final String BASE_URL = "http://10.40.15.238:8080/compras";
     private final Gson gson = new Gson();
 
     public void realizarCompra(String nombreComprador, Vuelo vuelo) {

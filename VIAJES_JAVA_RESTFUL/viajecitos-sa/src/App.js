@@ -69,7 +69,7 @@ const App = () => {
 
   const cargarTodasLasCompras = async () => {
     try {
-      const res = await fetch('http://192.168.100.36:8080/compras');
+      const res = await fetch('http://10.40.15.238:8080/compras');
       const data = await res.json();
       setCompras(data);
     } catch (err) {

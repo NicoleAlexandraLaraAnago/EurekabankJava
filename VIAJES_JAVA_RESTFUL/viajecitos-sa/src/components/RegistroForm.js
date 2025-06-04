@@ -10,7 +10,7 @@ const RegistroForm = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post('http://195.168.100.36:8080/auth/registro', {
+      await axios.post('http://10.40.15.238:8080/auth/registro', {
         nombre,
         correo,
         password

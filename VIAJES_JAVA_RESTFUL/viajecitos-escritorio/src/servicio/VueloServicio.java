@@ -23,7 +23,7 @@ public class VueloServicio {
         fecha = partes[2] + "-" + partes[1] + "-" + partes[0]; // yyyy-MM-dd
     }
 
-    String endpoint = String.format("http://192.168.100.36:8080/vuelos?origen=%s&destino=%s&fecha=%s",
+    String endpoint = String.format("http://10.40.15.238:8080/vuelos?origen=%s&destino=%s&fecha=%s",
             origen, destino, fecha);
     URL url = new URL(endpoint);
     HttpURLConnection con = (HttpURLConnection) url.openConnection();

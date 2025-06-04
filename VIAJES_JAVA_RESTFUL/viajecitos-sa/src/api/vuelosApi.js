@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://192.168.100.36:8080';
+const BASE_URL = 'http://10.40.15.238:8080';
 
 export const buscarVuelos = async (origen, destino, fecha) => {
   const response = await axios.get(`${BASE_URL}/vuelos`, {

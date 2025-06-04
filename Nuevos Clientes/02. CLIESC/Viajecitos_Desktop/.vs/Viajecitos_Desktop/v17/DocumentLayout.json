@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\dashboardadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\dashboardadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\dashboarduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\dashboarduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|d:\\escritorio\\viajecitos-soap\\cliesc\\viajecitos_desktop\\viajecitos_desktop\\dashboarduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\dashboarduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\misfacturasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\misfacturasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\buscarvueloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\buscarvueloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\buscarvueloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\buscarvueloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\confirmarcompraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\confirmarcompraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\misfacturasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\misfacturasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\confirmarcompraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\confirmarcompraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\todascomprasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\todascomprasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\miscomprasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\miscomprasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\dashboardadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\dashboardadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\todascomprasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\todascomprasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\miscomprasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\miscomprasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\dashboarduserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\dashboarduserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\cuetextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\cuetextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\viajecitos_desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AB320E-5B8B-4FDC-8C5E-4707013A6544}|Viajecitos_Desktop\\Viajecitos_Desktop.csproj|solutionrelative:viajecitos_desktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfirmarCompraForm.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\ConfirmarCompraForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\ConfirmarCompraForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\ConfirmarCompraForm.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\ConfirmarCompraForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:10:46.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardUserForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\DashboardUserForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\DashboardUserForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\DashboardUserForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Viajecitos_Desktop\\DashboardUserForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:04:15.272Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardUserForm.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\DashboardUserForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\DashboardUserForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\DashboardUserForm.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\DashboardUserForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:08:19.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\LoginForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Viajecitos_Desktop\\LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:00:53.302Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardAdminForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\DashboardAdminForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\DashboardAdminForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\DashboardAdminForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Viajecitos_Desktop\\DashboardAdminForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T04:18:01.009Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MisFacturasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\MisFacturasForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\MisFacturasForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\MisFacturasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Viajecitos_Desktop\\MisFacturasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:28:38.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuscarVueloForm.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\BuscarVueloForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\BuscarVueloForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\BuscarVueloForm.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\BuscarVueloForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:42:21.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MisFacturasForm.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\MisFacturasForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\MisFacturasForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\MisFacturasForm.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\MisFacturasForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwCYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T01:45:44.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuscarVueloForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\BuscarVueloForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\BuscarVueloForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\BuscarVueloForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Viajecitos_Desktop\\BuscarVueloForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:03:31.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfirmarCompraForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\ConfirmarCompraForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\ConfirmarCompraForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\ConfirmarCompraForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Viajecitos_Desktop\\ConfirmarCompraForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:07:31.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodasComprasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\TodasComprasForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\TodasComprasForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\TodasComprasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Viajecitos_Desktop\\TodasComprasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:09:54.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\RegisterForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\RegisterForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Viajecitos_Desktop\\RegisterForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:30:09.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MisComprasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\MisComprasForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\MisComprasForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\MisComprasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Viajecitos_Desktop\\MisComprasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:09:41.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardAdminForm.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\DashboardAdminForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\DashboardAdminForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\DashboardAdminForm.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\DashboardAdminForm.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwBIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T04:21:51.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\RegisterForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\RegisterForm.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\RegisterForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:39:11.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TodasComprasForm.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\TodasComprasForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\TodasComprasForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\TodasComprasForm.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\TodasComprasForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:43:55.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MisComprasForm.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\MisComprasForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\MisComprasForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\MisComprasForm.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\MisComprasForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:42:43.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\LoginForm.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\LoginForm.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\LoginForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:03:21.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\Form1.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\Form1.cs",
+              "ToolTip": "D:\\Escritorio\\02.CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\02.CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:21:01.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UiHelper.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\UiHelper.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\UiHelper.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\UiHelper.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\UiHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:23:42.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DashboardUserForm.Designer.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\DashboardUserForm.Designer.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\DashboardUserForm.Designer.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\DashboardUserForm.Designer.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\DashboardUserForm.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:15:27.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\LoginForm.Designer.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\LoginForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:09:01.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\Form1.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\Form1.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\Form1.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T04:33:58.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CueTextBox.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\CueTextBox.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\CueTextBox.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\CueTextBox.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\CueTextBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:51:57.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\Program.cs",
+              "RelativeDocumentMoniker": "Viajecitos_Desktop\\Program.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIESC\\Viajecitos_Desktop\\Viajecitos_Desktop\\Program.cs",
+              "RelativeToolTip": "Viajecitos_Desktop\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:24:07.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

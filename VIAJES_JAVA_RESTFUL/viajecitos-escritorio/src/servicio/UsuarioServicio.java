@@ -9,7 +9,7 @@ import modelo.Usuario;
 
 public class UsuarioServicio {
     public LoginRespuesta login(String correo, String password) throws IOException {
-        URL url = new URL("http://192.168.100.36:8080/auth/login"); // ⚠️ URL corregida según tu backend
+        URL url = new URL("http://10.40.15.238:8080/auth/login"); // ⚠️ URL corregida según tu backend
         HttpURLConnection con = (HttpURLConnection) url.openConnection();
         con.setRequestMethod("POST");
         con.setRequestProperty("Content-Type", "application/json");
@@ -29,7 +29,7 @@ public class UsuarioServicio {
         return null;
     }
     public boolean registrar(Usuario usuario) throws IOException {
-    URL url = new URL("http://localhost:8080/auth/registro");
+    URL url = new URL("http://10.40.15.238:8080/auth/registro");
     HttpURLConnection con = (HttpURLConnection) url.openConnection();
     con.setRequestMethod("POST");
     con.setRequestProperty("Content-Type", "application/json");

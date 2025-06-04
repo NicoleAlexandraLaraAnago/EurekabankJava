@@ -12,7 +12,7 @@ import java.net.http.HttpResponse;
 import java.util.List;
 
 public class VueloService {
-    private static final String BASE_URL = "http://192.168.100.36:8080/vuelos";
+    private static final String BASE_URL = "http://10.40.15.238:8080/vuelos";
     private final Gson gson = new Gson();
 
     public List<Vuelo> buscar(String origen, String destino, String fecha) {
