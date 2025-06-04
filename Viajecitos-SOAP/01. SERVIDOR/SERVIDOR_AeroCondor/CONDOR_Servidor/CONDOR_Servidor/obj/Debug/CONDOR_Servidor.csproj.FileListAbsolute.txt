@@ -1,0 +1,36 @@
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\CONDOR_Servidor.dll.config
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\CONDOR_Servidor.dll
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\CONDOR_Servidor.pdb
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\BCrypt.Net-Next.dll
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Buffers.dll
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Memory.dll
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Numerics.Vectors.dll
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\BCrypt.Net-Next.xml
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Buffers.xml
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Memory.xml
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Numerics.Vectors.xml
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\obj\Debug\CONDOR_Servidor.csproj.AssemblyReference.cache
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\obj\Debug\CONDOR_Servidor.csproj.CoreCompileInputs.cache
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\obj\Debug\CONDOR_S.33EA30B6.Up2Date
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\obj\Debug\CONDOR_Servidor.dll
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\obj\Debug\CONDOR_Servidor.pdb
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\CONDOR_Servidor.dll.config
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\CONDOR_Servidor.dll
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\CONDOR_Servidor.pdb
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\BCrypt.Net-Next.dll
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Buffers.dll
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Memory.dll
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Numerics.Vectors.dll
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\BCrypt.Net-Next.xml
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Buffers.xml
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Memory.xml
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Numerics.Vectors.xml
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\obj\Debug\CONDOR_Servidor.csproj.AssemblyReference.cache
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\obj\Debug\CONDOR_Servidor.csproj.CoreCompileInputs.cache
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\obj\Debug\CONDOR_S.33EA30B6.Up2Date
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\obj\Debug\CONDOR_Servidor.dll
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_AeroCondor\CONDOR_Servidor\CONDOR_Servidor\obj\Debug\CONDOR_Servidor.pdb

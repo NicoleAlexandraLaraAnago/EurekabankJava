@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\condor_servidor\\condorservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|solutionrelative:condor_servidor\\condorservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CONDOR_Servidor||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\condor_servidor\\dto\\vuelodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|solutionrelative:condor_servidor\\dto\\vuelodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\condor_servidor\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|solutionrelative:condor_servidor\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\condor_servidor\\dto\\facturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|solutionrelative:condor_servidor\\dto\\facturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\condor_servidor\\dto\\compradetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|solutionrelative:condor_servidor\\dto\\compradetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\condor_servidor\\dto\\ciudaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|solutionrelative:condor_servidor\\dto\\ciudaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\condor_servidor\\condorservice.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}",
+      "RelativeMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|solutionrelative:condor_servidor\\condorservice.svc||{FB9167C9-D3B8-4EDA-8083-9AF6B6F6DA62}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\condor_servidor\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|solutionrelative:condor_servidor\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\condor_servidor\\icondorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|solutionrelative:condor_servidor\\icondorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF5D4A4-6BF2-4E90-A2EA-C3D7F1BDBE9C}|CONDOR_Servidor\\CONDOR_Servidor.csproj|d:\\escritorio\\viajecitos-soap\\01. servidor\\servidor_aerocondor\\condor_servidor\\condor_servidor\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturaDTO.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\DTO\\FacturaDTO.cs",
+              "RelativeDocumentMoniker": "CONDOR_Servidor\\DTO\\FacturaDTO.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\DTO\\FacturaDTO.cs",
+              "RelativeToolTip": "CONDOR_Servidor\\DTO\\FacturaDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:08:33.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CiudadDTO.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\DTO\\CiudadDTO.cs",
+              "RelativeDocumentMoniker": "CONDOR_Servidor\\DTO\\CiudadDTO.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\DTO\\CiudadDTO.cs",
+              "RelativeToolTip": "CONDOR_Servidor\\DTO\\CiudadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:08:04.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICondorService.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\ICondorService.cs",
+              "RelativeDocumentMoniker": "CONDOR_Servidor\\ICondorService.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\ICondorService.cs",
+              "RelativeToolTip": "CONDOR_Servidor\\ICondorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:06:17.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CondorService.svc.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\CondorService.svc.cs",
+              "RelativeDocumentMoniker": "CONDOR_Servidor\\CondorService.svc.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\CondorService.svc.cs",
+              "RelativeToolTip": "CONDOR_Servidor\\CondorService.svc.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAwwOAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:04:28.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\DTO\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "CONDOR_Servidor\\DTO\\UsuarioDTO.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\DTO\\UsuarioDTO.cs",
+              "RelativeToolTip": "CONDOR_Servidor\\DTO\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:12:50.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CONDOR_Servidor",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\CONDOR_Servidor.csproj",
+              "RelativeDocumentMoniker": "CONDOR_Servidor\\CONDOR_Servidor.csproj",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\CONDOR_Servidor.csproj",
+              "RelativeToolTip": "CONDOR_Servidor\\CONDOR_Servidor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-03T20:26:38.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VueloDTO.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\DTO\\VueloDTO.cs",
+              "RelativeDocumentMoniker": "CONDOR_Servidor\\DTO\\VueloDTO.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\DTO\\VueloDTO.cs",
+              "RelativeToolTip": "CONDOR_Servidor\\DTO\\VueloDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:10:45.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompraDetalleDTO.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\DTO\\CompraDetalleDTO.cs",
+              "RelativeDocumentMoniker": "CONDOR_Servidor\\DTO\\CompraDetalleDTO.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\DTO\\CompraDetalleDTO.cs",
+              "RelativeToolTip": "CONDOR_Servidor\\DTO\\CompraDetalleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:12:07.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CondorService.svc",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\CondorService.svc",
+              "RelativeDocumentMoniker": "CONDOR_Servidor\\CondorService.svc",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\CondorService.svc",
+              "RelativeToolTip": "CONDOR_Servidor\\CondorService.svc",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003504|",
+              "WhenOpened": "2025-06-03T20:17:55.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\Web.config",
+              "RelativeDocumentMoniker": "CONDOR_Servidor\\Web.config",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\01. SERVIDOR\\SERVIDOR_AeroCondor\\CONDOR_Servidor\\CONDOR_Servidor\\Web.config",
+              "RelativeToolTip": "CONDOR_Servidor\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-03T20:14:21.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

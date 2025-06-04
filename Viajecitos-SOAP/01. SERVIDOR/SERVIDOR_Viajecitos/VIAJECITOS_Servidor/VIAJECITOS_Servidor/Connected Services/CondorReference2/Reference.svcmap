@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="b07f7f4d-9f25-4ed4-996e-12733c2f9067" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://192.168.39.32:50409/CondorService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CondorService.wsdl" MetadataType="Wsdl" ID="e234882f-1e01-42f6-b3f3-67b2a254c284" SourceId="1" SourceUrl="http://192.168.39.32:50409/CondorService.svc?wsdl" />
+    <MetadataFile FileName="CondorService.disco" MetadataType="Disco" ID="6ac3cedd-15d9-4df7-87f2-526692220eac" SourceId="1" SourceUrl="http://192.168.39.32:50409/CondorService.svc?disco" />
+    <MetadataFile FileName="CondorService.xsd" MetadataType="Schema" ID="dee21111-5a93-46b9-9e2a-36c88102280d" SourceId="1" SourceUrl="http://192.168.39.32:50409/CondorService.svc?xsd=xsd0" />
+    <MetadataFile FileName="CondorService1.xsd" MetadataType="Schema" ID="644c4588-31f3-4e9a-8944-446cea70a63e" SourceId="1" SourceUrl="http://192.168.39.32:50409/CondorService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CondorService2.xsd" MetadataType="Schema" ID="f83ed345-0a67-491b-ac9f-17035b592f06" SourceId="1" SourceUrl="http://192.168.39.32:50409/CondorService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="CONDOR_Servidor.CondorService" CodeBehind="CondorService.svc.cs" %>
