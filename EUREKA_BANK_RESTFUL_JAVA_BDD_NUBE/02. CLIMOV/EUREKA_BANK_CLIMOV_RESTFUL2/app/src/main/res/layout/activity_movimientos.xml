@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e0f7fa">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/txtTitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Consulta de Movimientos"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#004d40"
+            android:layout_marginBottom="24dp" />
+
+        <EditText
+            android:id="@+id/txtCuenta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Número de Cuenta"
+            android:inputType="text"
+            android:background="@android:drawable/edit_text"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp" />
+
+        <Button
+            android:id="@+id/btnBuscar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Buscar"
+            android:backgroundTint="#00796b"
+            android:textColor="#ffffff"
+            android:textSize="16sp"
+            android:layout_marginBottom="20dp" />
+
+        <TextView
+            android:id="@+id/txtSaldo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Saldo:"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#00796b"
+            android:layout_marginBottom="12dp" />
+
+        <TextView
+            android:id="@+id/txtLista"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="12dp"
+            android:background="#ffffff"
+            android:textColor="#333333"
+            android:textSize="15sp"
+            android:typeface="monospace"
+            android:layout_marginTop="8dp"
+            android:minHeight="250dp"
+            android:scrollbars="vertical" />
+
+    </LinearLayout>
+</ScrollView>

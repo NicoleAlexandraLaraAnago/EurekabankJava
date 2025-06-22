@@ -1,0 +1,8 @@
+ec\edu\monster\controlador\LoginClient.class
+ec\edu\monster\db\AccesoDB.class
+ec\edu\monster\servicio\ApiService$1.class
+ec\edu\monster\controlador\LoginClient$2.class
+ec\edu\monster\controlador\LoginClient$1.class
+ec\edu\monster\servicio\ApiService.class
+ec\edu\monster\modelo\Usuario.class
+ec\edu\monster\modelo\Movimiento.class

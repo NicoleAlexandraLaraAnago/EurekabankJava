@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EUREKA_BANK_CLICON_RESTFUL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9474b09c05b98fbdcea7abe7e34dc439ae450f07")]
 [assembly: System.Reflection.AssemblyProductAttribute("EUREKA_BANK_CLICON_RESTFUL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EUREKA_BANK_CLICON_RESTFUL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

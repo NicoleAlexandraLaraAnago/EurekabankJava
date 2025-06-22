@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#e0f7fa"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/txtTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Menú Principal"
+        android:textColor="#004d40"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="40dp" />
+
+    <Button
+        android:id="@+id/btnMovimientos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ver Movimientos"
+        android:backgroundTint="#00796b"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="20dp"
+        android:padding="12dp"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btnRegistrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Realizar Movimiento"
+        android:backgroundTint="#00796b"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="20dp"
+        android:padding="12dp"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btnCerrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cerrar Sesión"
+        android:backgroundTint="#d32f2f"
+        android:textColor="#ffffff"
+        android:padding="12dp"
+        android:textSize="16sp" />
+</LinearLayout>

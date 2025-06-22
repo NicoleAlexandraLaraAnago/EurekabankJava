@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\EUREKA_BANK_RESTFUL_DOTNET\\CLICON\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj": {}
+    "D:\\Escritorio\\RepoNico\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\EUREKA_BANK_RESTFUL_DOTNET\\CLICON\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj": {
+    "D:\\Escritorio\\RepoNico\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\EUREKA_BANK_RESTFUL_DOTNET\\CLICON\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj",
+        "projectUniqueName": "D:\\Escritorio\\RepoNico\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj",
         "projectName": "EUREKA_BANK_CLICON_RESTFUL",
-        "projectPath": "D:\\Escritorio\\EUREKA_BANK_RESTFUL_DOTNET\\CLICON\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj",
+        "projectPath": "D:\\Escritorio\\RepoNico\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\EUREKA_BANK_RESTFUL_DOTNET\\CLICON\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\obj\\",
+        "outputPath": "D:\\Escritorio\\RepoNico\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
