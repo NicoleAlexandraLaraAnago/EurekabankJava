@@ -298,11 +298,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj",
       "projectName": "EUREKA_BANK_CLICON_RESTFUL",
       "projectPath": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj",
       "packagesPath": "C:\\Users\\Ordenador\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\obj\\",
+=======
+      "projectUniqueName": "D:\\Escritorio\\RepoNico\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj",
+      "projectName": "EUREKA_BANK_CLICON_RESTFUL",
+      "projectPath": "D:\\Escritorio\\RepoNico\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "D:\\Escritorio\\RepoNico\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\obj\\",
+>>>>>>> 960ae735ea06893d54ce2ba0c475ba2c9639e719
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

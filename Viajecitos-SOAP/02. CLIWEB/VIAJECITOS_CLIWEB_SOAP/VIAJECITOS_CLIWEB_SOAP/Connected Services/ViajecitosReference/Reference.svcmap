@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="9074a266-4241-4904-9df2-34d1b77bcbcf" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50727/ViajecitosService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ViajecitosService.xsd" MetadataType="Schema" ID="a3c8aff8-2dbf-4932-b77e-f5a9f042d327" SourceId="1" SourceUrl="http://localhost:50727/ViajecitosService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ViajecitosService1.xsd" MetadataType="Schema" ID="4347b043-68af-4a09-a03b-33dbb94e70a3" SourceId="1" SourceUrl="http://localhost:50727/ViajecitosService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ViajecitosService2.xsd" MetadataType="Schema" ID="01b3f00f-55fa-463e-a7d5-2d9eb905ca16" SourceId="1" SourceUrl="http://localhost:50727/ViajecitosService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ViajecitosService.disco" MetadataType="Disco" ID="9e272130-8fd7-49f3-9932-8d868aa72393" SourceId="1" SourceUrl="http://localhost:50727/ViajecitosService.svc?disco" />
+    <MetadataFile FileName="ViajecitosService.wsdl" MetadataType="Wsdl" ID="035d89ed-c19c-45fe-964c-6c1c6fcfe529" SourceId="1" SourceUrl="http://localhost:50727/ViajecitosService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,14 @@
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\bin\VIAJECITOS_Servidor.dll.config
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\bin\VIAJECITOS_Servidor.dll
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\bin\VIAJECITOS_Servidor.pdb
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\obj\Debug\VIAJECITOS_Servidor.csproj.AssemblyReference.cache
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\obj\Debug\VIAJECITOS_Servidor.csproj.CoreCompileInputs.cache
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\obj\Debug\VIAJECITOS_Servidor.dll
+D:\Escritorio\Viajecitos-SOAP\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\obj\Debug\VIAJECITOS_Servidor.pdb
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\bin\VIAJECITOS_Servidor.dll.config
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\bin\VIAJECITOS_Servidor.dll
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\bin\VIAJECITOS_Servidor.pdb
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\obj\Debug\VIAJECITOS_Servidor.csproj.AssemblyReference.cache
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\obj\Debug\VIAJECITOS_Servidor.csproj.CoreCompileInputs.cache
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\obj\Debug\VIAJECITOS_Servidor.dll
+D:\Escritorio\Viajecitos-SOAP\01. SERVIDOR\SERVIDOR_Viajecitos\VIAJECITOS_Servidor\VIAJECITOS_Servidor\obj\Debug\VIAJECITOS_Servidor.pdb

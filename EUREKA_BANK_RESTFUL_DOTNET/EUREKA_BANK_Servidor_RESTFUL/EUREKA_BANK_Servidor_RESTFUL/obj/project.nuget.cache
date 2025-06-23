@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "rVgq1qQI0gE=",
   "success": true,
   "projectFilePath": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_Servidor_RESTFUL\\EUREKA_BANK_Servidor_RESTFUL\\EUREKA_BANK_Servidor_RESTFUL.csproj",
+=======
+  "dgSpecHash": "bEljgxX6wXY=",
+  "success": true,
+  "projectFilePath": "D:\\Escritorio\\RepoNico\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_Servidor_RESTFUL\\EUREKA_BANK_Servidor_RESTFUL\\EUREKA_BANK_Servidor_RESTFUL.csproj",
+>>>>>>> 960ae735ea06893d54ce2ba0c475ba2c9639e719
   "expectedPackageFiles": [
     "C:\\Users\\Ordenador\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Ordenador\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

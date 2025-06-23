@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|d:\\escritorio\\viajecitos-soap\\cliweb\\viajecitos_cliweb_soap\\viajecitos_cliweb_soap\\cliente\\buscarvuelo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\cliente\\buscarvuelo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\cliente\\buscarvuelo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\cliente\\buscarvuelo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\cliente\\miscompras.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\cliente\\miscompras.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\cliente\\verfacturas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\cliente\\verfacturas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\cliente\\verfacturas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\cliente\\verfacturas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\cliente\\miscompras.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\cliente\\miscompras.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\admin\\todaslascompras.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\admin\\todaslascompras.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\admin\\todaslascompras.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\admin\\todaslascompras.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\viajecitos_cliweb_soap\\dashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5090D5A4-11F0-4742-BB37-574378913BB1}|VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP.csproj|solutionrelative:viajecitos_cliweb_soap\\dashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VerFacturas.aspx.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Cliente\\VerFacturas.aspx.cs",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Cliente\\VerFacturas.aspx.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Cliente\\VerFacturas.aspx.cs",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Cliente\\VerFacturas.aspx.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:22:47.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VerFacturas.aspx",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Cliente\\VerFacturas.aspx",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Cliente\\VerFacturas.aspx",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Cliente\\VerFacturas.aspx",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Cliente\\VerFacturas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-04T06:20:22.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Dashboard.aspx",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Dashboard.aspx",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-30T18:51:04.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Dashboard.aspx.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Dashboard.aspx.cs",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Dashboard.aspx.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:51:46.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuscarVuelo.aspx",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Cliente\\BuscarVuelo.aspx",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Cliente\\BuscarVuelo.aspx",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Cliente\\BuscarVuelo.aspx",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Cliente\\BuscarVuelo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-30T18:43:21.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuscarVuelo.aspx.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Cliente\\BuscarVuelo.aspx.cs",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Cliente\\BuscarVuelo.aspx.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Cliente\\BuscarVuelo.aspx.cs",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Cliente\\BuscarVuelo.aspx.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAiwHIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:28:55.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MisCompras.aspx.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Cliente\\MisCompras.aspx.cs",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Cliente\\MisCompras.aspx.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Cliente\\MisCompras.aspx.cs",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Cliente\\MisCompras.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T21:45:12.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MisCompras.aspx",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Cliente\\MisCompras.aspx",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Cliente\\MisCompras.aspx",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Cliente\\MisCompras.aspx",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Cliente\\MisCompras.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-30T18:43:33.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Login.aspx",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Login.aspx",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Login.aspx",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-30T18:45:23.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Registro.aspx",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Registro.aspx",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Registro.aspx",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Registro.aspx",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Registro.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-30T18:45:38.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Login.aspx.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Login.aspx.cs",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:46:38.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodasLasCompras.aspx",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Admin\\TodasLasCompras.aspx",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Admin\\TodasLasCompras.aspx",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Admin\\TodasLasCompras.aspx",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Admin\\TodasLasCompras.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T22:00:30.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registro.aspx.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Registro.aspx.cs",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Registro.aspx.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Registro.aspx.cs",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Registro.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:47:39.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TodasLasCompras.aspx.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Admin\\TodasLasCompras.aspx.cs",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Admin\\TodasLasCompras.aspx.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Admin\\TodasLasCompras.aspx.cs",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Admin\\TodasLasCompras.aspx.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T22:01:00.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dashboard.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Dashboard.aspx.designer.cs",
+              "RelativeDocumentMoniker": "VIAJECITOS_CLIWEB_SOAP\\Dashboard.aspx.designer.cs",
+              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLIWEB\\VIAJECITOS_CLIWEB_SOAP\\VIAJECITOS_CLIWEB_SOAP\\Dashboard.aspx.designer.cs",
+              "RelativeToolTip": "VIAJECITOS_CLIWEB_SOAP\\Dashboard.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T18:51:48.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="CondorService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://192.168.39.32:50409/CondorService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://192.168.39.32:50409/CondorService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://192.168.39.32:50409/CondorService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/CONDOR_Servidor.DTO" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ICondorService_RegistrarUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:RegistrarUsuario" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_RegistrarUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RegistrarUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_Login_InputMessage">
+    <wsdl:part name="parameters" element="tns:Login" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_Login_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_BuscarVueloMayorValor_InputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarVueloMayorValor" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_BuscarVueloMayorValor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:BuscarVueloMayorValorResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_RegistrarCompra_InputMessage">
+    <wsdl:part name="parameters" element="tns:RegistrarCompra" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_RegistrarCompra_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RegistrarCompraResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_ObtenerUsuarioPorId_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerUsuarioPorId" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_ObtenerUsuarioPorId_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerUsuarioPorIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_ObtenerTodasLasCompras_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTodasLasCompras" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_ObtenerTodasLasCompras_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerTodasLasComprasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_ListarVuelos_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListarVuelos" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_ListarVuelos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListarVuelosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_ListarCiudades_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListarCiudades" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_ListarCiudades_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListarCiudadesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_ObtenerComprasPorUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerComprasPorUsuario" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_ObtenerComprasPorUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerComprasPorUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_RegistrarCompraConFactura_InputMessage">
+    <wsdl:part name="parameters" element="tns:RegistrarCompraConFactura" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_RegistrarCompraConFactura_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RegistrarCompraConFacturaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_ObtenerFacturasPorUsuario_InputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerFacturasPorUsuario" />
+  </wsdl:message>
+  <wsdl:message name="ICondorService_ObtenerFacturasPorUsuario_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ObtenerFacturasPorUsuarioResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ICondorService">
+    <wsdl:operation name="RegistrarUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICondorService/RegistrarUsuario" message="tns:ICondorService_RegistrarUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICondorService/RegistrarUsuarioResponse" message="tns:ICondorService_RegistrarUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICondorService/Login" message="tns:ICondorService_Login_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICondorService/LoginResponse" message="tns:ICondorService_Login_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="BuscarVueloMayorValor">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICondorService/BuscarVueloMayorValor" message="tns:ICondorService_BuscarVueloMayorValor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICondorService/BuscarVueloMayorValorResponse" message="tns:ICondorService_BuscarVueloMayorValor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarCompra">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICondorService/RegistrarCompra" message="tns:ICondorService_RegistrarCompra_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICondorService/RegistrarCompraResponse" message="tns:ICondorService_RegistrarCompra_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerUsuarioPorId">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICondorService/ObtenerUsuarioPorId" message="tns:ICondorService_ObtenerUsuarioPorId_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICondorService/ObtenerUsuarioPorIdResponse" message="tns:ICondorService_ObtenerUsuarioPorId_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTodasLasCompras">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICondorService/ObtenerTodasLasCompras" message="tns:ICondorService_ObtenerTodasLasCompras_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICondorService/ObtenerTodasLasComprasResponse" message="tns:ICondorService_ObtenerTodasLasCompras_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarVuelos">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICondorService/ListarVuelos" message="tns:ICondorService_ListarVuelos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICondorService/ListarVuelosResponse" message="tns:ICondorService_ListarVuelos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ListarCiudades">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICondorService/ListarCiudades" message="tns:ICondorService_ListarCiudades_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICondorService/ListarCiudadesResponse" message="tns:ICondorService_ListarCiudades_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerComprasPorUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICondorService/ObtenerComprasPorUsuario" message="tns:ICondorService_ObtenerComprasPorUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICondorService/ObtenerComprasPorUsuarioResponse" message="tns:ICondorService_ObtenerComprasPorUsuario_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarCompraConFactura">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICondorService/RegistrarCompraConFactura" message="tns:ICondorService_RegistrarCompraConFactura_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICondorService/RegistrarCompraConFacturaResponse" message="tns:ICondorService_RegistrarCompraConFactura_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFacturasPorUsuario">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICondorService/ObtenerFacturasPorUsuario" message="tns:ICondorService_ObtenerFacturasPorUsuario_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ICondorService/ObtenerFacturasPorUsuarioResponse" message="tns:ICondorService_ObtenerFacturasPorUsuario_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ICondorService" type="tns:ICondorService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="RegistrarUsuario">
+      <soap:operation soapAction="http://tempuri.org/ICondorService/RegistrarUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Login">
+      <soap:operation soapAction="http://tempuri.org/ICondorService/Login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="BuscarVueloMayorValor">
+      <soap:operation soapAction="http://tempuri.org/ICondorService/BuscarVueloMayorValor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarCompra">
+      <soap:operation soapAction="http://tempuri.org/ICondorService/RegistrarCompra" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerUsuarioPorId">
+      <soap:operation soapAction="http://tempuri.org/ICondorService/ObtenerUsuarioPorId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerTodasLasCompras">
+      <soap:operation soapAction="http://tempuri.org/ICondorService/ObtenerTodasLasCompras" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarVuelos">
+      <soap:operation soapAction="http://tempuri.org/ICondorService/ListarVuelos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListarCiudades">
+      <soap:operation soapAction="http://tempuri.org/ICondorService/ListarCiudades" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerComprasPorUsuario">
+      <soap:operation soapAction="http://tempuri.org/ICondorService/ObtenerComprasPorUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RegistrarCompraConFactura">
+      <soap:operation soapAction="http://tempuri.org/ICondorService/RegistrarCompraConFactura" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ObtenerFacturasPorUsuario">
+      <soap:operation soapAction="http://tempuri.org/ICondorService/ObtenerFacturasPorUsuario" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CondorService">
+    <wsdl:port name="BasicHttpBinding_ICondorService" binding="tns:BasicHttpBinding_ICondorService">
+      <soap:address location="http://192.168.39.32:50409/CondorService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

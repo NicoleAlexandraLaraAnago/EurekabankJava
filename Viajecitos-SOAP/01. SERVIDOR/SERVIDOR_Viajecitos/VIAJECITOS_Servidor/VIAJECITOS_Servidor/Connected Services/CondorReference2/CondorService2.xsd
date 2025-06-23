@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/CONDOR_Servidor.DTO" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/CONDOR_Servidor.DTO" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="UsuarioDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Apellido" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Rol" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Usuario" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="UsuarioDTO" nillable="true" type="tns:UsuarioDTO" />
+  <xs:complexType name="VueloDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CiudadDestino" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CiudadOrigen" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CuposDisponibles" type="xs:int" />
+      <xs:element minOccurs="0" name="HoraSalida" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Valor" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="VueloDTO" nillable="true" type="tns:VueloDTO" />
+  <xs:complexType name="ArrayOfCompraDetalleDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CompraDetalleDTO" nillable="true" type="tns:CompraDetalleDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCompraDetalleDTO" nillable="true" type="tns:ArrayOfCompraDetalleDTO" />
+  <xs:complexType name="CompraDetalleDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Apellido" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Cantidad" type="xs:int" />
+      <xs:element minOccurs="0" name="CiudadDestino" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CiudadOrigen" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FechaCompra" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="HoraSalida" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IdCompra" type="xs:int" />
+      <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Usuario" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Valor" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CompraDetalleDTO" nillable="true" type="tns:CompraDetalleDTO" />
+  <xs:complexType name="ArrayOfVueloDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="VueloDTO" nillable="true" type="tns:VueloDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfVueloDTO" nillable="true" type="tns:ArrayOfVueloDTO" />
+  <xs:complexType name="ArrayOfCiudadDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CiudadDTO" nillable="true" type="tns:CiudadDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCiudadDTO" nillable="true" type="tns:ArrayOfCiudadDTO" />
+  <xs:complexType name="CiudadDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Codigo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NombreCiudad" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CiudadDTO" nillable="true" type="tns:CiudadDTO" />
+  <xs:complexType name="FacturaDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CiudadDestino" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CiudadOrigen" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FechaFactura" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="IVA" type="xs:decimal" />
+      <xs:element minOccurs="0" name="IdCompra" type="xs:int" />
+      <xs:element minOccurs="0" name="IdFactura" type="xs:int" />
+      <xs:element minOccurs="0" name="NombreComprador" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="NumeroBoleto" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Subtotal" type="xs:decimal" />
+      <xs:element minOccurs="0" name="TotalAPagar" type="xs:decimal" />
+      <xs:element minOccurs="0" name="ValorUnitario" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="FacturaDTO" nillable="true" type="tns:FacturaDTO" />
+  <xs:complexType name="ArrayOfFacturaDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="FacturaDTO" nillable="true" type="tns:FacturaDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfFacturaDTO" nillable="true" type="tns:ArrayOfFacturaDTO" />
+</xs:schema>

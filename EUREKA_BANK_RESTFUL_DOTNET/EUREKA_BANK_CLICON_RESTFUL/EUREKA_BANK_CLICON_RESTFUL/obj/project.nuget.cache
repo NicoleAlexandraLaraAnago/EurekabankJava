@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "JdKDUu4ih/Y=",
   "success": true,
   "projectFilePath": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj",
+=======
+  "dgSpecHash": "nOFcF6plBD0=",
+  "success": true,
+  "projectFilePath": "D:\\Escritorio\\RepoNico\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNET\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj",
+>>>>>>> 960ae735ea06893d54ce2ba0c475ba2c9639e719
   "expectedPackageFiles": [
     "C:\\Users\\Ordenador\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Ordenador\\.nuget\\packages\\system.io.pipelines\\9.0.5\\system.io.pipelines.9.0.5.nupkg.sha512",
