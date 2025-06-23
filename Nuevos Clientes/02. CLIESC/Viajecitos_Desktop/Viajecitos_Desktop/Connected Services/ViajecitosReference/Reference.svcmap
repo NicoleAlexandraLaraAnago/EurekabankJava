@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="b6c47612-f419-4e53-94a7-197917532a89" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="a961d97c-3ffd-4834-a488-b745307c2950" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -19,14 +19,14 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://localhost:50727/ViajecitosService.svc" Protocol="http" SourceId="1" />
+    <MetadataSource Address="http://10.40.16.118:50727/ViajecitosService.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="ViajecitosService.xsd" MetadataType="Schema" ID="3b41ba41-1ddf-42b4-b6a8-3da4857bc383" SourceId="1" SourceUrl="http://localhost:50727/ViajecitosService.svc?xsd=xsd0" />
-    <MetadataFile FileName="ViajecitosService1.xsd" MetadataType="Schema" ID="c49aff14-d713-4085-a83c-6a726c5765f5" SourceId="1" SourceUrl="http://localhost:50727/ViajecitosService.svc?xsd=xsd1" />
-    <MetadataFile FileName="ViajecitosService2.xsd" MetadataType="Schema" ID="cca2cb2e-a72f-4f78-9d8b-d009cd9914c1" SourceId="1" SourceUrl="http://localhost:50727/ViajecitosService.svc?xsd=xsd2" />
-    <MetadataFile FileName="ViajecitosService.disco" MetadataType="Disco" ID="eec654ad-eea4-41dd-9232-af3887cb0fab" SourceId="1" SourceUrl="http://localhost:50727/ViajecitosService.svc?disco" />
-    <MetadataFile FileName="ViajecitosService.wsdl" MetadataType="Wsdl" ID="9cd87ae7-c03c-4f00-a4ca-859910c2cd92" SourceId="1" SourceUrl="http://localhost:50727/ViajecitosService.svc?wsdl" />
+    <MetadataFile FileName="ViajecitosService.xsd" MetadataType="Schema" ID="2f99c347-e490-49f0-8db7-c4f0aa920e90" SourceId="1" SourceUrl="http://10.40.16.118:50727/ViajecitosService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ViajecitosService1.xsd" MetadataType="Schema" ID="da8fe5e6-6969-4f1c-bf96-ae5aebf215c0" SourceId="1" SourceUrl="http://10.40.16.118:50727/ViajecitosService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ViajecitosService2.xsd" MetadataType="Schema" ID="a4ca84eb-41eb-4850-b432-65c97a4cad75" SourceId="1" SourceUrl="http://10.40.16.118:50727/ViajecitosService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ViajecitosService.disco" MetadataType="Disco" ID="7da76b2c-ab6b-4084-b32c-55e450faf5a3" SourceId="1" SourceUrl="http://10.40.16.118:50727/ViajecitosService.svc?disco" />
+    <MetadataFile FileName="ViajecitosService.wsdl" MetadataType="Wsdl" ID="49c7c5a6-461c-4e31-bafc-39f2d366b28e" SourceId="1" SourceUrl="http://10.40.16.118:50727/ViajecitosService.svc?wsdl" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

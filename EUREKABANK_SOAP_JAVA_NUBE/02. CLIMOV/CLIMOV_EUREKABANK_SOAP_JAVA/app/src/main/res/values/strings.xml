@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CLIMOV_EUREKABANK_SOAP_JAVA</string>
+    <string-array name="tipo_movimientos">
+        <item>Seleccione un tipo de movimiento</item>
+        <item>Depósito</item>
+        <item>Retiro</item>
+        <item>Transferencia</item>
+    </string-array>
+</resources>

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Escritorio\\Viajecitos-SOAP\\CLICON\\VIAJECITOS_CLICON_SOAP\\",
+  "WorkspaceRootPath": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\Nuevos Clientes\\02. CLICON\\VIAJECITOS_CLICON_SOAP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B2C03D9-0C6D-44A8-9AEB-1358EDA7BE77}|VIAJECITOS_CLICON_SOAP\\VIAJECITOS_CLICON_SOAP.csproj|d:\\escritorio\\viajecitos-soap\\clicon\\viajecitos_clicon_soap\\viajecitos_clicon_soap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B2C03D9-0C6D-44A8-9AEB-1358EDA7BE77}|VIAJECITOS_CLICON_SOAP\\VIAJECITOS_CLICON_SOAP.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\nuevos clientes\\02. clicon\\viajecitos_clicon_soap\\viajecitos_clicon_soap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B2C03D9-0C6D-44A8-9AEB-1358EDA7BE77}|VIAJECITOS_CLICON_SOAP\\VIAJECITOS_CLICON_SOAP.csproj|solutionrelative:viajecitos_clicon_soap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Escritorio\\Viajecitos-SOAP\\CLICON\\VIAJECITOS_CLICON_SOAP\\VIAJECITOS_CLICON_SOAP\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\Nuevos Clientes\\02. CLICON\\VIAJECITOS_CLICON_SOAP\\VIAJECITOS_CLICON_SOAP\\Program.cs",
               "RelativeDocumentMoniker": "VIAJECITOS_CLICON_SOAP\\Program.cs",
-              "ToolTip": "D:\\Escritorio\\Viajecitos-SOAP\\CLICON\\VIAJECITOS_CLICON_SOAP\\VIAJECITOS_CLICON_SOAP\\Program.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\Nuevos Clientes\\02. CLICON\\VIAJECITOS_CLICON_SOAP\\VIAJECITOS_CLICON_SOAP\\Program.cs",
               "RelativeToolTip": "VIAJECITOS_CLICON_SOAP\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

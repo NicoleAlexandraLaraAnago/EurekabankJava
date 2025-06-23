@@ -51,3 +51,23 @@ D:\Escritorio\Viajecitos-SOAP\CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\D
 D:\Escritorio\Viajecitos-SOAP\CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.pdb
 D:\Escritorio\Viajecitos-SOAP\CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.ConfirmarCompraForm.resources
 D:\Escritorio\Viajecitos-SOAP\CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.MisFacturasForm.resources
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\bin\Debug\Viajecitos_Desktop.exe.config
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\bin\Debug\Viajecitos_Desktop.exe
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\bin\Debug\Viajecitos_Desktop.pdb
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.csproj.AssemblyReference.cache
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.exe.config
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.BuscarVueloForm.resources
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.ConfirmarCompraForm.resources
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.DashboardAdminForm.resources
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.DashboardUserForm.resources
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.Form1.resources
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.LoginForm.resources
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.MisComprasForm.resources
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.MisFacturasForm.resources
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.Properties.Resources.resources
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.DashboardForm.resources
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.TodasComprasForm.resources
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.csproj.GenerateResource.cache
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.exe
+C:\Users\Ordenador\Documents\GitHub\EurekabankJava\Nuevos Clientes\02. CLIESC\Viajecitos_Desktop\Viajecitos_Desktop\obj\Debug\Viajecitos_Desktop.pdb

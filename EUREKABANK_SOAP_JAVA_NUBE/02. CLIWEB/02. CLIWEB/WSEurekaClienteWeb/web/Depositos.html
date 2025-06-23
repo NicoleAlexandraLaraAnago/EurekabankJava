@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Eureka Bank - Movimiento</title>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #CCCCFF;
+            font-family: 'Open Sans', sans-serif;
+        }
+        .deposito-container {
+            text-align: center;
+            background-color: #FFFFFF;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .deposito-container input[type="text"],
+        .deposito-container input[type="number"],
+        .deposito-container select {
+            width: 80%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ffffff;
+            border-radius: 4px;
+            background-color: #e0c7e0;
+            color: #000000;
+        }
+        .deposito-container input[type="submit"] {
+            padding: 10px 70px;
+            background-color: #CC99FF;
+            color: #6F2FA8;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .deposito-container input[type="submit"]:hover {
+            background-color: #CC99FF;
+        }
+    </style>
+</head>
+<body>
+    <div class="deposito-container">
+        <h1>Realizar Movimiento</h1>
+        <form id="depositoForm">
+            <input type="number" id="account" name="account" placeholder="Número de Cuenta Origen" required><br>
+            <input type="number" id="accountDestino" name="accountDestino" placeholder="Número de Cuenta Destino" required><br>
+
+            <!-- Combo box para seleccionar el tipo de movimiento -->
+            <select id="tipoCodigo" name="tipoCodigo" required>
+                <option value="">Seleccione un tipo de movimiento</option>
+                <option value="003">Depósito</option>
+                <option value="004">Retiro</option>
+                <option value="009">Transferencia</option>
+            </select><br>
+
+            <!-- Monto del movimiento -->
+            <input type="number" id="amount" name="amount" placeholder="Monto del Movimiento" required><br>
+            <input type="submit" value="Realizar Movimiento">
+        </form>
+    </div>
+
+    <script>
+        document.getElementById('depositoForm').addEventListener('submit', function(event) {
+            event.preventDefault();  // Prevenir el comportamiento por defecto del formulario
+            realizarMovimiento();  // Llamar a la función para realizar el movimiento
+        });
+
+        // Función para consultar el saldo de la cuenta
+        function obtenerSaldo(cuenta) {
+            return new Promise((resolve, reject) => {
+                const xml = `
+                    <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://ws.monster.edu.ec/">
+                        <soapenv:Header/>
+                        <soapenv:Body>
+                            <ws:obtenerSaldo>
+                                <cuenta>${cuenta}</cuenta>
+                            </ws:obtenerSaldo>
+                        </soapenv:Body>
+                    </soapenv:Envelope>
+                `;
+
+                fetch('http://192.168.100.36:8080/WSEureka', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'text/xml',  // Indicar que es un contenido XML
+                        'SOAPAction': 'http://ws.monster.edu.ec/WSEureka/obtenerSaldoRequest'  // Acción SOAP
+                    },
+                    body: xml
+                })
+                .then(response => response.text())
+                .then(data => {
+                    const parser = new DOMParser();
+                    const xmlDoc = parser.parseFromString(data, "text/xml");
+                    const saldo = xmlDoc.getElementsByTagName("saldo")[0]?.textContent;
+                    resolve(parseFloat(saldo));
+                })
+                .catch(error => {
+                    console.error('Error al obtener el saldo:', error);
+                    reject(error);
+                });
+            });
+        }
+
+        // Función principal para realizar el movimiento
+        function realizarMovimiento() {
+            const account = document.getElementById('account').value;
+            const accountDestino = document.getElementById('accountDestino').value;
+            const amount = parseFloat(document.getElementById('amount').value);
+            const tipoCodigo = document.getElementById('tipoCodigo').value;
+            if (!tipoCodigo) {
+                alert('Por favor, seleccione un tipo de movimiento.');
+                return;
+            }
+
+            if (tipoCodigo === '004' || tipoCodigo === '009') {
+                // Si es un retiro o transferencia, primero validamos el saldo
+                obtenerSaldo(account)
+                    .then(saldo => {
+                        if (saldo < amount) {
+                            // Mostrar mensaje personalizado según el tipo de movimiento
+                            const mensajeError = tipoCodigo === '004' ? 
+                                'Saldo insuficiente para realizar el retiro.' :
+                                'Saldo insuficiente para realizar la transferencia.';
+                            alert(mensajeError);
+                        } else {
+                            realizarMovimientoReal(account, amount, tipoCodigo);  // Realizar el movimiento
+                        }
+                    })
+                    .catch(error => {
+                        alert('No se pudo consultar el saldo. Por favor, inténtelo nuevamente.');
+                    });
+            } else {
+                realizarMovimientoReal(account, amount, tipoCodigo);  // Si no es un retiro ni transferencia, se realiza el movimiento directamente
+            }
+            if (tipoCodigo === '009') {
+                // Si es un retiro o transferencia, primero validamos el saldo
+                obtenerSaldo(account)
+                    .then(saldo => {
+                        if (saldo < amount) {
+                            // Mostrar mensaje personalizado según el tipo de movimiento
+                            const mensajeError = tipoCodigo === '004' ? 
+                                'Saldo insuficiente para realizar el retiro.' :
+                                'Saldo insuficiente para realizar la transferencia.';
+                            alert(mensajeError);
+                        } else {
+                            realizarMovimientoReal(accountDestino, amount, "008");  // Realizar el movimiento
+                        }
+                    })
+                    .catch(error => {
+                        alert('No se pudo consultar el saldo. Por favor, inténtelo nuevamente.');
+                    });
+            }
+        }
+
+        // Función para realizar el movimiento real (depósito, etc.)
+        function realizarMovimientoReal(account, amount, tipoCodigo) {
+            const xml = `
+                <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ws="http://ws.monster.edu.ec/">
+                    <soapenv:Header/>
+                    <soapenv:Body>
+                        <ws:regDeposito>
+                            <cuenta>${account}</cuenta>
+                            <importe>${amount}</importe>
+                            <tipoCodigo>${tipoCodigo}</tipoCodigo>
+                        </ws:regDeposito>
+                    </soapenv:Body>
+                </soapenv:Envelope>
+            `;
+
+            fetch('http://192.168.100.36:8080/WSEureka', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'text/xml',
+                    'SOAPAction': 'http://ws.monster.edu.ec/WSEureka/regDepositoRequest'
+                },
+                body: xml
+            })
+            .then(response => response.text())
+            .then(data => {
+                console.log('Respuesta del servicio:', data);
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(data, "text/xml");
+                const resultado = xmlDoc.getElementsByTagName("resultado")[0]?.textContent;
+
+                if (resultado === "1") {
+                    alert('Movimiento realizado con éxito');
+                } else if (resultado === "-1") {
+                    alert('Error en el movimiento. Los datos proporcionados son incorrectos.');
+                } else {
+                    alert('Error desconocido en el movimiento. Por favor, inténtelo de nuevo.');
+                }
+            })
+            .catch(error => {
+                console.error('Error al realizar el movimiento:', error);
+                alert('Error en el proceso de movimiento. Por favor, inténtelo de nuevo.');
+            });
+        }
+    </script>
+</body>
+</html>

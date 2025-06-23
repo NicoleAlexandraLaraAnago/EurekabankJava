@@ -1,0 +1,197 @@
+
+package ec.edu.monster.ws;
+
+import javax.xml.bind.JAXBElement;
+import javax.xml.bind.annotation.XmlElementDecl;
+import javax.xml.bind.annotation.XmlRegistry;
+import javax.xml.namespace.QName;
+
+
+/**
+ * This object contains factory methods for each 
+ * Java content interface and Java element interface 
+ * generated in the ec.edu.monster.ws package. 
+ * <p>An ObjectFactory allows you to programatically 
+ * construct new instances of the Java representation 
+ * for XML content. The Java representation of XML 
+ * content can consist of schema derived interfaces 
+ * and classes representing the binding of schema 
+ * type definitions, element declarations and model 
+ * groups.  Factory methods for each of these are 
+ * provided in this class.
+ * 
+ */
+@XmlRegistry
+public class ObjectFactory {
+
+    private final static QName _LoginResponse_QNAME = new QName("http://ws.monster.edu.ec/", "loginResponse");
+    private final static QName _Movimiento_QNAME = new QName("http://ws.monster.edu.ec/", "movimiento");
+    private final static QName _RegDeposito_QNAME = new QName("http://ws.monster.edu.ec/", "regDeposito");
+    private final static QName _ObtenerSaldoResponse_QNAME = new QName("http://ws.monster.edu.ec/", "obtenerSaldoResponse");
+    private final static QName _ObtenerSaldo_QNAME = new QName("http://ws.monster.edu.ec/", "obtenerSaldo");
+    private final static QName _RegDepositoResponse_QNAME = new QName("http://ws.monster.edu.ec/", "regDepositoResponse");
+    private final static QName _TraerMovimientosResponse_QNAME = new QName("http://ws.monster.edu.ec/", "traerMovimientosResponse");
+    private final static QName _Login_QNAME = new QName("http://ws.monster.edu.ec/", "login");
+    private final static QName _TraerMovimientos_QNAME = new QName("http://ws.monster.edu.ec/", "traerMovimientos");
+
+    /**
+     * Create a new ObjectFactory that can be used to create new instances of schema derived classes for package: ec.edu.monster.ws
+     * 
+     */
+    public ObjectFactory() {
+    }
+
+    /**
+     * Create an instance of {@link LoginResponse }
+     * 
+     */
+    public LoginResponse createLoginResponse() {
+        return new LoginResponse();
+    }
+
+    /**
+     * Create an instance of {@link Movimiento }
+     * 
+     */
+    public Movimiento createMovimiento() {
+        return new Movimiento();
+    }
+
+    /**
+     * Create an instance of {@link RegDeposito }
+     * 
+     */
+    public RegDeposito createRegDeposito() {
+        return new RegDeposito();
+    }
+
+    /**
+     * Create an instance of {@link ObtenerSaldoResponse }
+     * 
+     */
+    public ObtenerSaldoResponse createObtenerSaldoResponse() {
+        return new ObtenerSaldoResponse();
+    }
+
+    /**
+     * Create an instance of {@link ObtenerSaldo }
+     * 
+     */
+    public ObtenerSaldo createObtenerSaldo() {
+        return new ObtenerSaldo();
+    }
+
+    /**
+     * Create an instance of {@link RegDepositoResponse }
+     * 
+     */
+    public RegDepositoResponse createRegDepositoResponse() {
+        return new RegDepositoResponse();
+    }
+
+    /**
+     * Create an instance of {@link TraerMovimientosResponse }
+     * 
+     */
+    public TraerMovimientosResponse createTraerMovimientosResponse() {
+        return new TraerMovimientosResponse();
+    }
+
+    /**
+     * Create an instance of {@link Login }
+     * 
+     */
+    public Login createLogin() {
+        return new Login();
+    }
+
+    /**
+     * Create an instance of {@link TraerMovimientos }
+     * 
+     */
+    public TraerMovimientos createTraerMovimientos() {
+        return new TraerMovimientos();
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link LoginResponse }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://ws.monster.edu.ec/", name = "loginResponse")
+    public JAXBElement<LoginResponse> createLoginResponse(LoginResponse value) {
+        return new JAXBElement<LoginResponse>(_LoginResponse_QNAME, LoginResponse.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link Movimiento }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://ws.monster.edu.ec/", name = "movimiento")
+    public JAXBElement<Movimiento> createMovimiento(Movimiento value) {
+        return new JAXBElement<Movimiento>(_Movimiento_QNAME, Movimiento.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link RegDeposito }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://ws.monster.edu.ec/", name = "regDeposito")
+    public JAXBElement<RegDeposito> createRegDeposito(RegDeposito value) {
+        return new JAXBElement<RegDeposito>(_RegDeposito_QNAME, RegDeposito.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link ObtenerSaldoResponse }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://ws.monster.edu.ec/", name = "obtenerSaldoResponse")
+    public JAXBElement<ObtenerSaldoResponse> createObtenerSaldoResponse(ObtenerSaldoResponse value) {
+        return new JAXBElement<ObtenerSaldoResponse>(_ObtenerSaldoResponse_QNAME, ObtenerSaldoResponse.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link ObtenerSaldo }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://ws.monster.edu.ec/", name = "obtenerSaldo")
+    public JAXBElement<ObtenerSaldo> createObtenerSaldo(ObtenerSaldo value) {
+        return new JAXBElement<ObtenerSaldo>(_ObtenerSaldo_QNAME, ObtenerSaldo.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link RegDepositoResponse }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://ws.monster.edu.ec/", name = "regDepositoResponse")
+    public JAXBElement<RegDepositoResponse> createRegDepositoResponse(RegDepositoResponse value) {
+        return new JAXBElement<RegDepositoResponse>(_RegDepositoResponse_QNAME, RegDepositoResponse.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link TraerMovimientosResponse }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://ws.monster.edu.ec/", name = "traerMovimientosResponse")
+    public JAXBElement<TraerMovimientosResponse> createTraerMovimientosResponse(TraerMovimientosResponse value) {
+        return new JAXBElement<TraerMovimientosResponse>(_TraerMovimientosResponse_QNAME, TraerMovimientosResponse.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link Login }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://ws.monster.edu.ec/", name = "login")
+    public JAXBElement<Login> createLogin(Login value) {
+        return new JAXBElement<Login>(_Login_QNAME, Login.class, null, value);
+    }
+
+    /**
+     * Create an instance of {@link JAXBElement }{@code <}{@link TraerMovimientos }{@code >}}
+     * 
+     */
+    @XmlElementDecl(namespace = "http://ws.monster.edu.ec/", name = "traerMovimientos")
+    public JAXBElement<TraerMovimientos> createTraerMovimientos(TraerMovimientos value) {
+        return new JAXBElement<TraerMovimientos>(_TraerMovimientos_QNAME, TraerMovimientos.class, null, value);
+    }
+
+}

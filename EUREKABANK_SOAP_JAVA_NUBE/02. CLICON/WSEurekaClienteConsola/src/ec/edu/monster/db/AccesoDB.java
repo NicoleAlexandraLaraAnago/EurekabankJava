@@ -1,0 +1,43 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package ec.edu.monster.db;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+/**
+ *
+ * @author chris
+ */
+public class AccesoDB {
+    // La URL debe incluir el nombre de la instancia y la base de datos
+    private static final String URL = "jdbc:mysql://34.170.58.252:3306/eurekabank?useSSL=false"
+            + "&allowPublicKeyRetrieval=true"
+            + "&serverTimezone=UTC";
+    
+    private static final String USER = "root";
+    private static final String PASS = "090712";
+    
+    public AccesoDB() {
+    }
+    
+    public static Connection getConnection() throws SQLException {
+        Connection cn = null;
+        try {
+            // Cargar el driver MySQL a memoria
+            String driver = "com.mysql.cj.jdbc.Driver";
+            Class.forName(driver);
+            
+            // Obtener el objeto Connection
+            cn = DriverManager.getConnection(URL, USER, PASS);
+        } catch (SQLException e) {
+            throw new SQLException("Error al conectar a la base de datos: " + e.getMessage(), e);
+        } catch (ClassNotFoundException e) {
+            throw new SQLException("Error: No se encuentra el driver JDBC de MySQL.", e);
+        }
+        return cn;
+    }
+}
