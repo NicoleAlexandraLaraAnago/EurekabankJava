@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\views\\home\\vermovimientos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,24 +19,44 @@
       "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\views\\home\\realizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,14 +71,6 @@
       "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|c:\\users\\ordenador\\documents\\github\\eurekabankjava\\eureka_bank_restful_dotneto_nube\\eureka_bank_cliweb_restful\\eureka_bank_cliweb_restful\\models\\movimientorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601960F2-3F9F-47F0-8284-7DFC80D3F400}|EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL.csproj|solutionrelative:eureka_bank_cliweb_restful\\models\\movimientorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -66,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,140 +94,92 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Menu.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Menu.cshtml",
-              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Menu.cshtml",
-              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Menu.cshtml",
-              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Menu.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T03:49:43.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ApiService.cs",
               "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Services\\ApiService.cs",
               "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Services\\ApiService.cs",
               "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Services\\ApiService.cs",
               "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Services\\ApiService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:49:22.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T03:49:22.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:54:39.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-28T03:52:23.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Realizar.cshtml",
               "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Realizar.cshtml",
               "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Realizar.cshtml",
               "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Realizar.cshtml",
               "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Realizar.cshtml",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-28T03:50:16.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Cuenta.cs",
+              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Cuenta.cs",
+              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Cuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:48:40.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Menu.cshtml",
+              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Menu.cshtml",
+              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\Menu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T03:49:43.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "VerMovimientos.cshtml",
               "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\VerMovimientos.cshtml",
               "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\VerMovimientos.cshtml",
               "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\VerMovimientos.cshtml",
               "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Home\\VerMovimientos.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-28T03:50:09.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Movimiento.cs",
-              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Movimiento.cs",
-              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Movimiento.cs",
-              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Movimiento.cs",
-              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Movimiento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:48:32.053Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\appsettings.Development.json",
-              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-25T06:21:14.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Controllers\\HomeController.cs",
               "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T03:51:59.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T03:55:16.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T04:11:07.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\LoginRequest.cs",
@@ -223,7 +191,115 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T13:33:58.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T13:33:57.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Program.cs",
+              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Program.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Program.cs",
+              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:33:52.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\appsettings.Development.json",
+              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T06:21:14.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\appsettings.json",
+              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\appsettings.json",
+              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T13:32:09.007Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:54:39.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Movimiento.cs",
+              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Movimiento.cs",
+              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Movimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T03:48:32.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T03:55:16.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T04:11:07.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "MovimientoRequest.cs",
               "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\MovimientoRequest.cs",
               "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\MovimientoRequest.cs",
@@ -232,18 +308,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T03:48:51.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Cuenta.cs",
-              "DocumentMoniker": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Cuenta.cs",
-              "RelativeDocumentMoniker": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Cuenta.cs",
-              "ToolTip": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLIWEB_RESTFUL\\EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Cuenta.cs",
-              "RelativeToolTip": "EUREKA_BANK_CLIWEB_RESTFUL\\Models\\Cuenta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T03:48:40.552Z"
             }
           ]
         }
