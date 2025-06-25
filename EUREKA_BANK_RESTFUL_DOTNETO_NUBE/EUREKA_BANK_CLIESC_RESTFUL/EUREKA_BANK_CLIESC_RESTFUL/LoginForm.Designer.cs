@@ -68,7 +68,7 @@
             // 
             // btnLogin
             // 
-            btnLogin.BackColor = Color.MidnightBlue;
+            btnLogin.BackColor = Color.ForestGreen;
             btnLogin.Font = new Font("Segoe UI", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnLogin.ForeColor = Color.White;
             btnLogin.Location = new Point(128, 302);
@@ -92,9 +92,9 @@
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(404, 111);
+            pictureBox1.Location = new Point(446, 116);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(364, 298);
+            pictureBox1.Size = new Size(265, 298);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 6;
             pictureBox1.TabStop = false;
@@ -103,7 +103,7 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 28.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label3.ForeColor = Color.MidnightBlue;
+            label3.ForeColor = Color.MediumSlateBlue;
             label3.Location = new Point(223, 19);
             label3.Name = "label3";
             label3.Size = new Size(405, 62);

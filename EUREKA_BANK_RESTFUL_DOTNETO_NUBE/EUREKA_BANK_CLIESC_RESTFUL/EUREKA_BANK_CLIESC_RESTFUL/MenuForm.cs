@@ -41,5 +41,10 @@ namespace EUREKA_BANK_CLIESC_RESTFUL
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

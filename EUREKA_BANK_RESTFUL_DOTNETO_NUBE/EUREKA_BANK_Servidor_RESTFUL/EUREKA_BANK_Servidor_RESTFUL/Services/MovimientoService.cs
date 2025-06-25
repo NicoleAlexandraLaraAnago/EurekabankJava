@@ -39,12 +39,13 @@ namespace EUREKA_BANK_Servidor_RESTFUL.Services
                 _ => ObtenerCodigoTipo(tipo)
             };
         }
-
         public IEnumerable<Movimiento> GetMovimientos(string cuenta)
         {
             return _context.Movimientos
                 .Where(m => m.CuentaId == cuenta)
-                .OrderByDescending(m => m.Fecha);
+                .OrderByDescending(m => m.Fecha)
+                .ThenByDescending(m => m.NumeroMovimiento)
+                .ToList();
         }
 
         public async Task<bool> RegistrarMovimiento(MovimientoRequest req)

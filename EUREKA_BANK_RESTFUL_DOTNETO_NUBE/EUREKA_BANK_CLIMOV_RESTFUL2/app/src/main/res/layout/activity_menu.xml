@@ -4,48 +4,56 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    android:background="#e0f7fa"
+    android:background="#EAB8E4"
     android:padding="24dp">
 
-    <TextView
-        android:id="@+id/txtTitulo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Menú Principal"
-        android:textColor="#004d40"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        android:layout_marginBottom="40dp" />
+<TextView
+android:id="@+id/txtTitulo"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_marginBottom="40dp"
+android:text="Menú"
+android:textColor="#004d40"
+android:textSize="24sp"
+android:textStyle="bold" />
 
-    <Button
-        android:id="@+id/btnMovimientos"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Ver Movimientos"
-        android:backgroundTint="#00796b"
-        android:textColor="#ffffff"
-        android:layout_marginBottom="20dp"
-        android:padding="12dp"
-        android:textSize="16sp" />
+<ImageView
+android:id="@+id/imgMenu"
+android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:src="@drawable/banco"
+    android:layout_marginBottom="20dp"
+    android:contentDescription="Imagen del menú" />
 
     <Button
         android:id="@+id/btnRegistrar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Realizar Movimiento"
-        android:backgroundTint="#00796b"
-        android:textColor="#ffffff"
         android:layout_marginBottom="20dp"
+        android:backgroundTint="#c894e3"
         android:padding="12dp"
+        android:text="Realizar Movimiento"
+        android:textColor="#ffffff"
         android:textSize="16sp" />
 
     <Button
+android:id="@+id/btnVerMovimientos"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="Ver Movimientos"
+android:backgroundTint="#c894e3"
+android:textColor="#ffffff"
+android:layout_marginBottom="20dp"
+android:padding="12dp"
+android:textSize="16sp" />
+
+    <Button
         android:id="@+id/btnCerrar"
-        android:layout_width="match_parent"
+        android:layout_width="193dp"
         android:layout_height="wrap_content"
-        android:text="Cerrar Sesión"
-        android:backgroundTint="#d32f2f"
-        android:textColor="#ffffff"
+        android:backgroundTint="#40c435"
         android:padding="12dp"
+        android:text="Cerrar Sesión"
+        android:textColor="#ffffff"
         android:textSize="16sp" />
-</LinearLayout>
+    </LinearLayout>

@@ -17,29 +17,33 @@
 
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MenuForm));
             label1 = new Label();
             btnMovimientos = new Button();
             btnRealizar = new Button();
             btnCerrarSesion = new Button();
+            pictureBox1 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.ForeColor = Color.MidnightBlue;
+            label1.ForeColor = Color.MediumSlateBlue;
             label1.Location = new Point(43, 22);
             label1.Name = "label1";
-            label1.Size = new Size(745, 81);
+            label1.Size = new Size(196, 81);
             label1.TabIndex = 0;
-            label1.Text = "Bienvenido a EurekaBank";
+            label1.Text = "Menú";
+            label1.Click += label1_Click;
             // 
             // btnMovimientos
             // 
             btnMovimientos.BackColor = Color.CornflowerBlue;
             btnMovimientos.Font = new Font("Segoe UI", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnMovimientos.ForeColor = SystemColors.Window;
-            btnMovimientos.Location = new Point(254, 137);
+            btnMovimientos.Location = new Point(43, 143);
             btnMovimientos.Name = "btnMovimientos";
             btnMovimientos.Size = new Size(292, 54);
             btnMovimientos.TabIndex = 1;
@@ -49,10 +53,10 @@
             // 
             // btnRealizar
             // 
-            btnRealizar.BackColor = Color.DarkCyan;
+            btnRealizar.BackColor = Color.DarkSlateGray;
             btnRealizar.Font = new Font("Segoe UI", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnRealizar.ForeColor = Color.White;
-            btnRealizar.Location = new Point(254, 228);
+            btnRealizar.Location = new Point(43, 251);
             btnRealizar.Name = "btnRealizar";
             btnRealizar.Size = new Size(292, 51);
             btnRealizar.TabIndex = 2;
@@ -62,10 +66,10 @@
             // 
             // btnCerrarSesion
             // 
-            btnCerrarSesion.BackColor = Color.Firebrick;
+            btnCerrarSesion.BackColor = Color.ForestGreen;
             btnCerrarSesion.Font = new Font("Segoe UI", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnCerrarSesion.ForeColor = Color.White;
-            btnCerrarSesion.Location = new Point(254, 340);
+            btnCerrarSesion.Location = new Point(496, 376);
             btnCerrarSesion.Name = "btnCerrarSesion";
             btnCerrarSesion.Size = new Size(292, 48);
             btnCerrarSesion.TabIndex = 3;
@@ -73,12 +77,22 @@
             btnCerrarSesion.UseVisualStyleBackColor = false;
             btnCerrarSesion.Click += btnCerrarSesion_Click;
             // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(496, 71);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(257, 267);
+            pictureBox1.TabIndex = 4;
+            pictureBox1.TabStop = false;
+            // 
             // MenuForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Window;
             ClientSize = new Size(800, 450);
+            Controls.Add(pictureBox1);
             Controls.Add(btnCerrarSesion);
             Controls.Add(btnRealizar);
             Controls.Add(btnMovimientos);
@@ -86,6 +100,7 @@
             Name = "MenuForm";
             Text = "MenuForm";
             Load += MenuForm_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }

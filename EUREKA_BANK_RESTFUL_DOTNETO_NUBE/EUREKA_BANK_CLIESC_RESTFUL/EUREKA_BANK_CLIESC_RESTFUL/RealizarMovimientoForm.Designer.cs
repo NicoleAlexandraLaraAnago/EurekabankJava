@@ -34,13 +34,14 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.ForeColor = Color.MidnightBlue;
+            label1.ForeColor = Color.MediumPurple;
             label1.Location = new Point(102, 9);
             label1.Name = "label1";
             label1.RightToLeft = RightToLeft.No;
             label1.Size = new Size(617, 81);
             label1.TabIndex = 0;
             label1.Text = "Realizar Movimiento";
+            label1.Click += label1_Click;
             // 
             // label2
             // 
@@ -119,7 +120,7 @@
             // 
             // btnRealizar
             // 
-            btnRealizar.BackColor = Color.RoyalBlue;
+            btnRealizar.BackColor = Color.ForestGreen;
             btnRealizar.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnRealizar.ForeColor = Color.White;
             btnRealizar.Location = new Point(352, 332);

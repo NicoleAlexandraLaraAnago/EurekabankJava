@@ -36,6 +36,45 @@
         }
       }
     },
+    "/api/Cuentas/{id}": {
+      "get": {
+        "tags": [
+          "Cuentas"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Cuenta"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Cuenta"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Cuenta"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Movimientos/{cuenta}": {
       "get": {
         "tags": [
@@ -131,6 +170,52 @@
   },
   "components": {
     "schemas": {
+      "Cuenta": {
+        "type": "object",
+        "properties": {
+          "cuentaId": {
+            "type": "string",
+            "nullable": true
+          },
+          "codigoMoneda": {
+            "type": "string",
+            "nullable": true
+          },
+          "codigoSucursal": {
+            "type": "string",
+            "nullable": true
+          },
+          "codigoEmpleadoCreador": {
+            "type": "string",
+            "nullable": true
+          },
+          "codigoCliente": {
+            "type": "string",
+            "nullable": true
+          },
+          "saldo": {
+            "type": "number",
+            "format": "double"
+          },
+          "fechaCreacion": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "estado": {
+            "type": "string",
+            "nullable": true
+          },
+          "contadorMovimientos": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "clave": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "LoginRequest": {
         "type": "object",
         "properties": {

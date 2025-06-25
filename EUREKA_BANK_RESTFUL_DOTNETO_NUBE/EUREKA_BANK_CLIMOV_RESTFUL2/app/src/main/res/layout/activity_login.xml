@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:gravity="center"
     android:padding="24dp"
-    android:background="#E0F7FA">
+    android:background="#EAB8E4"> <!-- Fondo morado pastel -->
 
     <TextView
         android:id="@+id/tvTitulo"
@@ -21,10 +21,9 @@
         android:id="@+id/imgLogo"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:src="@drawable/sulli"
+        android:src="@drawable/monster"
         android:layout_marginBottom="24dp"
         android:contentDescription="Logo de la app" />
-
 
     <EditText
         android:id="@+id/edtUsuario"
@@ -33,8 +32,7 @@
         android:hint="Usuario"
         android:inputType="text"
         android:background="@android:drawable/edit_text"
-        android:padding="10dp"
-        android:layout_marginBottom="16dp" />
+        android:padding="8dp"  />
 
     <EditText
         android:id="@+id/edtClave"
@@ -43,15 +41,14 @@
         android:hint="Contraseña"
         android:inputType="textPassword"
         android:background="@android:drawable/edit_text"
-        android:padding="10dp"
-        android:layout_marginBottom="24dp" />
+        android:padding="8dp"  />
 
     <Button
         android:id="@+id/btnLogin"
-        android:layout_width="match_parent"
+        android:layout_width="233dp"
         android:layout_height="wrap_content"
-        android:text="Iniciar Sesión"
         android:backgroundTint="#00796B"
-        android:textColor="#FFFFFF"
-        android:padding="12dp" />
+        android:padding="20dp"
+        android:text="Iniciar Sesión"
+        android:textColor="#FFFFFF" /> <!-- Reducido el padding -->
 </LinearLayout>

@@ -41,7 +41,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.ForeColor = Color.MidnightBlue;
+            label1.ForeColor = Color.MediumPurple;
             label1.Location = new Point(36, 6);
             label1.Name = "label1";
             label1.Size = new Size(752, 81);
@@ -90,7 +90,7 @@
             // 
             // btnBuscar
             // 
-            btnBuscar.BackColor = Color.PaleTurquoise;
+            btnBuscar.BackColor = Color.ForestGreen;
             btnBuscar.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnBuscar.Location = new Point(563, 106);
             btnBuscar.Name = "btnBuscar";

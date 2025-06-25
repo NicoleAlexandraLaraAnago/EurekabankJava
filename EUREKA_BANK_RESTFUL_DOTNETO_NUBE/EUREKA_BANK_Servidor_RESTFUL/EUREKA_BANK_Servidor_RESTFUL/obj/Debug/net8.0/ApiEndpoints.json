@@ -16,6 +16,32 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "EUREKA_BANK_Servidor_RESTFUL.Controllers.CuentasController",
+    "Method": "GetCuenta",
+    "RelativePath": "api/Cuentas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EUREKA_BANK_Servidor_RESTFUL.Models.Cuenta",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "EUREKA_BANK_Servidor_RESTFUL.Controllers.MovimientosController",
     "Method": "RegistrarMovimiento",
     "RelativePath": "api/Movimientos",
