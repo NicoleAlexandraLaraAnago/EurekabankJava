@@ -13,7 +13,7 @@ namespace EUREKA_BANK_CLICON_RESTFUL.Services
     public class ApiService
     {
         private readonly HttpClient _client;
-        private const string BaseUrl = "https://localhost:7286/api";
+        private const string BaseUrl = "http://10.40.16.192:5029/api/";
 
         public ApiService()
         {
