@@ -1,0 +1,6 @@
+@EUREKA_BANK_Servidor_RESTFUL_HostAddress = http://localhost:5029
+
+GET {{EUREKA_BANK_Servidor_RESTFUL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hGnwi3rESszFnIHxkbx5NDrOuCM2H279OKztaaF3uUY=",
+  "Source": "EUREKA_BANK_Servidor_RESTFUL",
+  "BasePath": "_content/EUREKA_BANK_Servidor_RESTFUL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

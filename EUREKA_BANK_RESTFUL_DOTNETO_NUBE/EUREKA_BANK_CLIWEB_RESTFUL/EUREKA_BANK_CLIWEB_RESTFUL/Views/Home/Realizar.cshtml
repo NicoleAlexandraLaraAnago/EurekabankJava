@@ -1,0 +1,136 @@
+﻿@model MovimientoRequest
+@{
+    ViewData["Title"] = "Realizar Movimiento";
+    var mensaje = ViewBag.Mensaje as string;
+    var exito = mensaje != null && mensaje.Contains("registrado");
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Realizar Movimiento</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #e0f7fa;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .form-container {
+            background: #fff;
+            padding: 30px 40px;
+            border-radius: 20px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+            width: 400px;
+        }
+
+        h2 {
+            color: #004d40;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+        }
+
+        button {
+            margin-top: 20px;
+            width: 100%;
+            padding: 12px;
+            background-color: #00796b;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+            button:hover {
+                background-color: #004d40;
+            }
+
+        .mensaje {
+            margin-top: 20px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .success {
+            color: green;
+        }
+
+        .error {
+            color: red;
+        }
+    </style>
+    <script>
+        function toggleDestino() {
+            const tipo = document.getElementById("TipoMovimiento").value;
+            const cuentaDestino = document.getElementById("cuentaDestinoGroup");
+            cuentaDestino.style.display = tipo === "TRANSFERENCIA" ? "block" : "none";
+        }
+
+        window.onload = function () {
+            toggleDestino();
+
+            // Redirige si el mensaje indica éxito
+            const redirigir = "@exito".toLowerCase() === "true";
+            if (redirigir) {
+                setTimeout(function () {
+                    window.location.href = "/Home/Menu";
+                }, 2000);
+            }
+        };
+    </script>
+</head>
+<body>
+    <div class="form-container">
+        <h2>Realizar Movimiento</h2>
+
+        <form method="post">
+            <label>Cuenta Origen:</label>
+            <input name="CuentaOrigen" required />
+
+            <label>Importe:</label>
+            <input name="Importe" type="number" step="0.01" required />
+
+            <label>Tipo:</label>
+            <select name="TipoMovimiento" id="TipoMovimiento" onchange="toggleDestino()" required>
+                <option value="DEPOSITO">Depósito</option>
+                <option value="RETIRO">Retiro</option>
+                <option value="TRANSFERENCIA">Transferencia</option>
+            </select>
+
+            <div id="cuentaDestinoGroup" style="display: none;">
+                <label>Cuenta Destino:</label>
+                <input name="CuentaDestino" />
+            </div>
+
+            <button type="submit">Realizar</button>
+        </form>
+
+        @if (mensaje != null)
+        {
+            <div class="mensaje @(exito ? "success" : "error")">@mensaje</div>
+        }
+    </div>
+</body>
+</html>

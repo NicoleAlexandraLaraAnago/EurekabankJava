@@ -1,0 +1,71 @@
+[
+  {
+    "ContainingType": "EUREKA_BANK_Servidor_RESTFUL.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "EUREKA_BANK_Servidor_RESTFUL.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EUREKA_BANK_Servidor_RESTFUL.Controllers.MovimientosController",
+    "Method": "RegistrarMovimiento",
+    "RelativePath": "api/Movimientos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "EUREKA_BANK_Servidor_RESTFUL.Models.MovimientoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EUREKA_BANK_Servidor_RESTFUL.Controllers.MovimientosController",
+    "Method": "GetMovimientos",
+    "RelativePath": "api/Movimientos/{cuenta}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cuenta",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EUREKA_BANK_Servidor_RESTFUL.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[EUREKA_BANK_Servidor_RESTFUL.WeatherForecast, EUREKA_BANK_Servidor_RESTFUL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
