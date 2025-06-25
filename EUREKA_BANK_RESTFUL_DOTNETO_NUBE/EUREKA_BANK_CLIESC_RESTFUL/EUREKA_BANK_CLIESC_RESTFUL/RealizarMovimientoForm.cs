@@ -20,7 +20,7 @@ namespace EUREKA_BANK_CLIESC_RESTFUL
             InitializeComponent();
             _api = new ApiService();
 
-            cmbTipo.Items.AddRange(new[] { "DEPÓSITO", "RETIRO", "TRANSFERENCIA" });
+            cmbTipo.Items.AddRange(new[] { "DEPOSITO", "RETIRO", "TRANSFERENCIA" });
             cmbTipo.SelectedIndexChanged += CmbTipo_SelectedIndexChanged;
             txtCuentaDestino.Visible = false;
         }

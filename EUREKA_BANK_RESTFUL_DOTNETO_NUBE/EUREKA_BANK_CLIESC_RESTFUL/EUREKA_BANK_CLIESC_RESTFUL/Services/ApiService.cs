@@ -15,7 +15,7 @@ namespace EUREKA_BANK_CLIESC_RESTFUL.Services
         public ApiService()
         {
             _client = new HttpClient();
-            _client.BaseAddress = new Uri("https://localhost:7286/api/");
+            _client.BaseAddress = new Uri("http://10.40.16.192:5029/api/");
         }
 
         public async Task<bool> LoginAsync(string usuario, string clave)
