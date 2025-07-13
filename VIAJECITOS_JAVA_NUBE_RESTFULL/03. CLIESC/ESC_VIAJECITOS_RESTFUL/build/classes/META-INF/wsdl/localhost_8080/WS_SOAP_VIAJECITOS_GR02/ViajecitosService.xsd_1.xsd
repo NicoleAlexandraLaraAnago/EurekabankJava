@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI (http://jax-ws.java.net). RI's version is Metro/2.3.2-b608 (trunk-7979; 2015-01-21T12:50:19+0000) JAXWS-RI/2.2.11-b150120.1832 JAXWS-API/2.2.12 JAXB-RI/2.2.12-b141219.1637 JAXB-API/2.2.13-b141020.1521 svn-revision#unknown. --><xs:schema xmlns:tns="http://servicio.gr02.edu.ec/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://servicio.gr02.edu.ec/">
+
+<xs:element name="buscarVueloPorId" type="tns:buscarVueloPorId"/>
+
+<xs:element name="buscarVueloPorIdResponse" type="tns:buscarVueloPorIdResponse"/>
+
+<xs:element name="buscarVuelos" type="tns:buscarVuelos"/>
+
+<xs:element name="buscarVuelosResponse" type="tns:buscarVuelosResponse"/>
+
+<xs:element name="comprarYFacturar" type="tns:comprarYFacturar"/>
+
+<xs:element name="comprarYFacturarResponse" type="tns:comprarYFacturarResponse"/>
+
+<xs:element name="historialFacturasPorUsuario" type="tns:historialFacturasPorUsuario"/>
+
+<xs:element name="historialFacturasPorUsuarioResponse" type="tns:historialFacturasPorUsuarioResponse"/>
+
+<xs:element name="login" type="tns:login"/>
+
+<xs:element name="loginResponse" type="tns:loginResponse"/>
+
+<xs:element name="obtenerAmortizacionPorFactura" type="tns:obtenerAmortizacionPorFactura"/>
+
+<xs:element name="obtenerAmortizacionPorFacturaResponse" type="tns:obtenerAmortizacionPorFacturaResponse"/>
+
+<xs:element name="obtenerFactura" type="tns:obtenerFactura"/>
+
+<xs:element name="obtenerFacturaResponse" type="tns:obtenerFacturaResponse"/>
+
+<xs:element name="verHistorialBusquedas" type="tns:verHistorialBusquedas"/>
+
+<xs:element name="verHistorialBusquedasResponse" type="tns:verHistorialBusquedasResponse"/>
+
+<xs:complexType name="login">
+<xs:sequence>
+<xs:element name="usuario" type="xs:string" minOccurs="0"/>
+<xs:element name="clave" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="loginResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:usuario" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="usuario">
+<xs:sequence>
+<xs:element name="apellido" type="xs:string" minOccurs="0"/>
+<xs:element name="cedula" type="xs:string" minOccurs="0"/>
+<xs:element name="contrasena" type="xs:string" minOccurs="0"/>
+<xs:element name="correo" type="xs:string" minOccurs="0"/>
+<xs:element name="id" type="xs:int"/>
+<xs:element name="nombre" type="xs:string" minOccurs="0"/>
+<xs:element name="nombreUsuario" type="xs:string" minOccurs="0"/>
+<xs:element name="telefono" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="buscarVuelos">
+<xs:sequence>
+<xs:element name="usuarioId" type="xs:int"/>
+<xs:element name="origen" type="xs:string" minOccurs="0"/>
+<xs:element name="destino" type="xs:string" minOccurs="0"/>
+<xs:element name="fecha" type="xs:dateTime" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="buscarVuelosResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:vuelo" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="vuelo">
+<xs:sequence>
+<xs:element name="asientosDisponibles" type="xs:int"/>
+<xs:element name="ciudadDestino" type="xs:string" minOccurs="0"/>
+<xs:element name="ciudadOrigen" type="xs:string" minOccurs="0"/>
+<xs:element name="fechaSalida" type="xs:dateTime" minOccurs="0"/>
+<xs:element name="horaSalida" type="xs:string" minOccurs="0"/>
+<xs:element name="id" type="xs:int"/>
+<xs:element name="valor" type="xs:double"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="verHistorialBusquedas">
+<xs:sequence>
+<xs:element name="usuarioId" type="xs:int"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="verHistorialBusquedasResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:historialBusqueda" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="historialBusqueda">
+<xs:sequence>
+<xs:element name="ciudadDestino" type="xs:string" minOccurs="0"/>
+<xs:element name="ciudadOrigen" type="xs:string" minOccurs="0"/>
+<xs:element name="fechaBusqueda" type="xs:dateTime" minOccurs="0"/>
+<xs:element name="fechaRealizada" type="xs:dateTime" minOccurs="0"/>
+<xs:element name="id" type="xs:int"/>
+<xs:element name="usuarioId" type="xs:int"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="buscarVueloPorId">
+<xs:sequence>
+<xs:element name="vueloId" type="xs:int"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="buscarVueloPorIdResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:vuelo" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="comprarYFacturar">
+<xs:sequence>
+<xs:element name="compra" type="tns:compra" minOccurs="0"/>
+<xs:element name="tipoAmortizacion" type="xs:string" minOccurs="0"/>
+<xs:element name="cuotas" type="xs:int"/>
+<xs:element name="tasaAnual" type="xs:double"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="compra">
+<xs:sequence>
+<xs:element name="codigoEmpleado" type="xs:string" minOccurs="0"/>
+<xs:element name="detalles" type="tns:detalleCompra" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+<xs:element name="fechaCompra" type="xs:dateTime" minOccurs="0"/>
+<xs:element name="id" type="xs:int"/>
+<xs:element name="metodoPagoId" type="xs:int"/>
+<xs:element name="subtotal" type="xs:double"/>
+<xs:element name="total" type="xs:double"/>
+<xs:element name="usuarioId" type="xs:int"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="detalleCompra">
+<xs:sequence>
+<xs:element name="cantidadAsientos" type="xs:int"/>
+<xs:element name="compraId" type="xs:int"/>
+<xs:element name="id" type="xs:int"/>
+<xs:element name="subtotalVuelo" type="xs:double"/>
+<xs:element name="vueloId" type="xs:int"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="comprarYFacturarResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:factura" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="factura">
+<xs:sequence>
+<xs:element name="amortizaciones" type="tns:amortizacion" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+<xs:element name="compra" type="tns:compra" minOccurs="0"/>
+<xs:element name="compraId" type="xs:int"/>
+<xs:element name="fechaEmision" type="xs:dateTime" minOccurs="0"/>
+<xs:element name="id" type="xs:int"/>
+<xs:element name="metodoPago" type="tns:metodoPago" minOccurs="0"/>
+<xs:element name="usuario" type="tns:usuario" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="amortizacion">
+<xs:sequence>
+<xs:element name="estadoPago" type="xs:string" minOccurs="0"/>
+<xs:element name="facturaId" type="xs:int"/>
+<xs:element name="fechaPago" type="xs:dateTime" minOccurs="0"/>
+<xs:element name="id" type="xs:int"/>
+<xs:element name="montoCuota" type="xs:double"/>
+<xs:element name="numeroCuota" type="xs:int"/>
+<xs:element name="saldoRestante" type="xs:double"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="metodoPago">
+<xs:sequence>
+<xs:element name="id" type="xs:int"/>
+<xs:element name="nombreMetodo" type="xs:string" minOccurs="0"/>
+<xs:element name="tipoPago" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="historialFacturasPorUsuario">
+<xs:sequence>
+<xs:element name="usuarioId" type="xs:int"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="historialFacturasPorUsuarioResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:factura" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="obtenerFactura">
+<xs:sequence>
+<xs:element name="facturaId" type="xs:int"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="obtenerFacturaResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:factura" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="obtenerAmortizacionPorFactura">
+<xs:sequence>
+<xs:element name="facturaId" type="xs:int"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="obtenerAmortizacionPorFacturaResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:amortizacion" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+</xs:schema>
