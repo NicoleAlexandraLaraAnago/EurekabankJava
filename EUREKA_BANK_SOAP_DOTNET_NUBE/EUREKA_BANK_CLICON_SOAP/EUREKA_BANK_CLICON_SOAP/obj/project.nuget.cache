@@ -1,0 +1,20 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "RRMlrsZSZwg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ordenador\\Documents\\GitHub\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLICON_SOAP\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj",
+=======
+  "dgSpecHash": "+ET7vsHiCYE=",
+  "success": true,
+  "projectFilePath": "D:\\Escritorio\\RepoNico\\EurekabankJava\\EUREKA_BANK_RESTFUL_DOTNETO_NUBE\\EUREKA_BANK_CLICON_SOAP\\EUREKA_BANK_CLICON_RESTFUL\\EUREKA_BANK_CLICON_RESTFUL.csproj",
+>>>>>>> 10998072b22d762fcf83bc09e9e7a43e09497a11
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.io.pipelines\\9.0.5\\system.io.pipelines.9.0.5.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.net.http.json\\9.0.5\\system.net.http.json.9.0.5.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.text.encodings.web\\9.0.5\\system.text.encodings.web.9.0.5.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.text.json\\9.0.5\\system.text.json.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

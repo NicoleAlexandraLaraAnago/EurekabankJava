@@ -1,0 +1,68 @@
+﻿@{
+    Layout = null; // NO USA EL LAYOUT GENERAL
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>Menú Principal</title>
+    <style>
+        body {
+            background-color: #e3f9fc;
+            font-family: 'Segoe UI', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .card {
+            background-color: white;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            padding: 40px;
+            text-align: center;
+            width: 400px;
+        }
+
+            .card img {
+                width: 150px;
+                margin-bottom: 20px;
+            }
+
+        h1 {
+            font-size: 26px;
+            font-weight: bold;
+            color: black;
+            margin-bottom: 30px;
+        }
+
+        .menu-btn {
+            display: block;
+            background-color: #00796B;
+            color: white;
+            text-decoration: none;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 10px;
+            font-size: 17px;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+
+            .menu-btn:hover {
+                background-color: #004d40;
+            }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <img src="~/images/logo.png" alt="Logo" />
+        <h1>Menú Principal</h1>
+        <a class="menu-btn" href="/Home/VerMovimientos">Ver movimientos</a>
+        <a class="menu-btn" href="/Home/Realizar">Realizar movimiento</a>
+    </div>
+</body>
+</html>
