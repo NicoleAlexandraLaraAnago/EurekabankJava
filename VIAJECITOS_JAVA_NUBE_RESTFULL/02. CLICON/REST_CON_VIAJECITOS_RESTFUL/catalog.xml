@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/WS_SOAP_VIAJECITOS_GR02/ViajecitosService?wsdl" uri="xml-resources/web-service-references/ViajecitosService/wsdl/localhost_8080/WS_SOAP_VIAJECITOS_GR02/ViajecitosService.wsdl"/>
+    <system systemId="http://localhost:8080/WS_SOAP_VIAJECITOS_GR02/ViajecitosService?xsd=1" uri="xml-resources/web-service-references/ViajecitosService/wsdl/localhost_8080/WS_SOAP_VIAJECITOS_GR02/ViajecitosService.xsd_1.xsd"/>
+    <system systemId="http://10.240.1.247:8080/WS_SOAP_VIAJECITOS_GR02/ViajecitosService?WSDL" uri="xml-resources/web-service-references/ViajecitosService/wsdl/10.240.1.247_8080/WS_SOAP_VIAJECITOS_GR02/ViajecitosService.wsdl"/>
+    <system systemId="http://10.240.1.247:8080/WS_SOAP_VIAJECITOS_GR02/ViajecitosService?xsd=1" uri="xml-resources/web-service-references/ViajecitosService/wsdl/10.240.1.247_8080/WS_SOAP_VIAJECITOS_GR02/ViajecitosService.xsd_1.xsd"/>
+</catalog>
